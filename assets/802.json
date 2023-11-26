@@ -1,0 +1,250 @@
+[
+    {
+        "codigo": "0000",
+        "nome": "Tribunal de Justiça do Estado de Alagoas"
+    },
+    {
+        "codigo": "0001",
+        "nome": "Maceió"
+    },
+    {
+        "codigo": "0002",
+        "nome": "Arapiraca"
+    },
+    {
+        "codigo": "0003",
+        "nome": "Penedo"
+    },
+    {
+        "codigo": "0004",
+        "nome": "Palmeira dos Índios"
+    },
+    {
+        "codigo":"0005",
+        "nome": "São Miguel dos Campos"
+    },
+    {
+        "codigo": "0006",
+        "nome": "União dos Palmares"
+    },
+    {
+        "codigo": "0007",
+        "nome": "Marechal Deodoro"
+    },
+    {
+        "codigo": "0008",
+        "nome": "Delmiro Gouveia"
+    },
+    {
+        "codigo": "0009",
+        "nome": "Coruripe"
+    },
+    {
+        "codigo": "0010",
+        "nome": "Santana do Ipanema"
+    },
+    {
+        "codigo":"0011",
+        "nome": "Rio Largo"
+    },
+    {
+        "codigo":"0012",
+        "nome": "Pão de Açúcar"
+    },
+    {
+        "codigo":"0013",
+        "nome": "Pilar"
+    },
+    {
+        "codigo":"0014",
+        "nome": "Atalaia"
+    },
+    {
+        "codigo":"0015",
+        "nome": "Murici"
+    },
+    {
+        "codigo":"0016",
+        "nome": "Porto Calvo"
+    },
+    {
+        "codigo":"0017",
+        "nome": "Maragogi"
+    },
+    {
+        "codigo":"0018",
+        "nome":"São Luiz do Quitunde"
+    },
+    {
+        "codigo":"0019",
+        "nome": "São José da Lage"
+    },
+    {
+        "codigo":"0020",
+        "nome": "Viçosa"
+    },
+    {
+        "codigo":"0021",
+        "nome": "Capela"
+    },
+    {
+        "codigo":"0022",
+        "nome": "Boca da Mata"
+    },
+    {
+        "codigo":"0023",
+        "nome": "São Sebastião"
+    },
+    {
+        "codigo":"0024",
+        "nome":"Teotônio Vilela"
+    },
+    {
+        "codigo":"0025",
+        "nome": "Girau do Ponciano"
+    },
+    {
+        "codigo":"0026",
+        "nome": "Olho D'Água das Flores"
+    },
+    {
+        "codigo":"0027",
+        "nome": "Santa Luzia do Norte"
+    },
+    {
+        "codigo":"0028",
+        "nome": "Colonia de Leopoldina"
+    },
+    {
+        "codigo":"0029",
+        "nome": "Batalha"
+    },
+    {
+        "codigo":"0030",
+        "nome": "Campo Alegre"
+    },
+    {
+        "codigo":"0031",
+        "nome": "São José da Tapera"
+    },
+    {
+        "codigo":"0032",
+        "nome": "Porto Real do Colégio"
+    },
+    {
+        "codigo":"0033",
+        "nome": "Joaquim Gomes"
+    },
+    {
+        "codigo":"0034",
+        "nome": "Piaçabuçu"
+    },
+    {
+        "codigo":"0035",
+        "nome":"Piranhas"
+    },
+    {
+        "codigo":"0036",
+        "nome":"Junqueiro"
+    },
+    {
+        "codigo":"0037",
+        "nome":"Igaci"
+    },
+    {
+        "codigo":"0038",
+        "nome":"Novo Lino"
+    },
+    {
+        "codigo":"0039",
+        "nome":"Feira Grande"
+    },
+    {
+        "codigo":"0040",
+        "nome":"Igreja Nova"
+    },
+    {
+        "codigo":"0041",
+        "nome":"Maravilha"
+    },
+    {
+        "codigo":"0042",
+        "nome":"Major Izidoro"
+    },
+    {
+        "codigo": "0043",
+        "nome": "Água Branca"
+    },
+    {
+        "codigo": "0044",
+        "nome": "Cajueiro"
+    },
+    {
+        "codigo": "0045",
+        "nome": "Porto das Pedras"
+    },
+    {
+        "codigo": "0046",
+        "nome": "Taquarana"
+    },
+    {
+        "codigo": "0047",
+        "nome": "Traipu"
+    },
+    {
+        "codigo": "0048",
+        "nome": "Matriz do Camaragibe"
+    },
+    {
+        "codigo": "0049",
+        "nome": "Mata Grande"
+    },
+    {
+        "codigo": "0050",
+        "nome": "Anadia"
+    },
+    {
+        "codigo": "0051",
+        "nome": "Quebrangulo"
+    },
+    {
+        "codigo": "0052",
+        "nome": "Paripueira"
+    },
+    {
+        "codigo":"0053",
+        "nome":"Maribondo"
+    },
+    {
+        "codigo": "0054",
+        "nome": "Limoeiro de Anadia"
+    },
+    {
+        "codigo": "0055",
+        "nome": "Cacimbinhas"
+    },
+    {
+        "codigo": "0056",
+        "nome": "Fleixeiras"
+    },
+    {
+        "codigo": "0057",
+        "nome": "Messias"
+    },
+    {
+        "codigo": "0058",
+        "nome": "Canapi"
+    },
+    {
+        "codigo": "0059",
+        "nome": "Paulo Jacinto"
+    },
+    {
+        "codigo": "0060",
+        "nome": "Passo de Camaragibe"
+    },
+    {
+        "codigo": "0061",
+        "nome": "São Brás"
+    }
+]

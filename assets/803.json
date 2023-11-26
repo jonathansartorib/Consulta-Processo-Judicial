@@ -1,0 +1,54 @@
+[
+    {
+        "codigo": "0000",
+        "nome": "Tribunal de Justiça do Estado do Amapá"
+    },
+    {
+        "codigo": "0001",
+        "nome": "Macapá"
+    },
+    {
+        "codigo": "0002",
+        "nome": "Santana"
+    },
+    {
+        "codigo": "0003",
+        "nome": "Mazagão"
+    },
+    {
+        "codigo": "0004",
+        "nome": "Amapá"
+    },
+    {
+        "codigo": "0005",
+        "nome": "Tartarugalzinho"
+    },
+    {
+        "codigo": "0006",
+        "nome": "Ferreira Gomes"
+    },
+    {
+        "codigo": "0007",
+        "nome": "Calçoene"
+    },
+    {
+        "codigo": "0008",
+        "nome": "Laranjal do Jari"
+    },
+    {
+        "codigo": "0009",
+        "nome": "Oiapoque"
+    },
+    {
+        "codigo": "0013",
+        "nome": "Pedra Branca do Amapari"
+    },
+    {
+        "codigo": "0011",
+        "nome": "Porto Grande"
+    },
+    {
+        "codigo": "0012",
+        "nome": "Vitória do Jari"
+    }
+]

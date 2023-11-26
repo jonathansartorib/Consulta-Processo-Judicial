@@ -1,0 +1,1118 @@
+[
+    {
+        "codigo": "0000",
+        "nome": "TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA"
+    },
+    {
+        "codigo": "0001",
+        "nome": "SALVADOR"
+    },
+    {
+        "codigo": "0002",
+        "nome": "ABARÉ"
+    },
+    {
+        "codigo": "0003",
+        "nome": "ACAJUTIBA"
+    },
+    {
+        "codigo": "0004",
+        "nome": "ALAGOINHAS"
+    },
+    {
+        "codigo": "0005",
+        "nome": "ALCOBAÇA"
+    },
+    {
+        "codigo": "0006",
+        "nome": "AMARGOSA"
+    },
+    {
+        "codigo": "0007",
+        "nome": "AMÉLIA RODRIGUES"
+    },
+    {
+        "codigo": "0008",
+        "nome": "AMÉRICA DOURADA"
+    },
+    {
+        "codigo": "0009",
+        "nome": "ANAGÉ"
+    },
+    {
+        "codigo": "0010",
+        "nome": "ANDARAÍ"
+    },
+    {
+        "codigo": "0011",
+        "nome": "ANGICAL"
+    },
+    {
+        "codigo": "0012",
+        "nome": "ANTAS"
+    },
+    {
+        "codigo": "0013",
+        "nome": "APORÁ"
+    },
+    {
+        "codigo": "0014",
+        "nome": "ARACI"
+    },
+    {
+        "codigo": "0015",
+        "nome": "AURELINO LEAL"
+    },
+    {
+        "codigo": "0016",
+        "nome": "BAIANÓPOLIS"
+    },
+    {
+        "codigo": "0017",
+        "nome": "BAIXA GRANDE"
+    },
+    {
+        "codigo": "0018",
+        "nome": "BARRA"
+    },
+    {
+        "codigo": "0019",
+        "nome": "BARRA DA ESTIVA"
+    },
+    {
+        "codigo": "0020",
+        "nome": "BARRA DO CHOÇA"
+    },
+    {
+        "codigo": "0021",
+        "nome": "BARRA DO MENDES"
+    },
+    {
+        "codigo": "0022",
+        "nome": "BARREIRAS"
+    },
+    {
+        "codigo": "0023",
+        "nome": "BELMONTE"
+    },
+    {
+        "codigo": "0024",
+        "nome": "BELO CAMPO"
+    },
+    {
+        "codigo": "0025",
+        "nome": "BOA NOVA"
+    },
+    {
+        "codigo": "0026",
+        "nome": "BOA VISTA DO TUPIM"
+    },
+    {
+        "codigo": "0027",
+        "nome": "BOM JESUS DA LAPA"
+    },
+    {
+        "codigo": "0028",
+        "nome": "BOQUIRA"
+    },
+    {
+        "codigo": "0029",
+        "nome": "BOTUPORÃ"
+    },
+    {
+        "codigo": "0030",
+        "nome": "BREJÕES"
+    },
+    {
+        "codigo": "0031",
+        "nome": "BROTAS DE MACAÚBAS"
+    },
+    {
+        "codigo": "0032",
+        "nome": "BRUMADO"
+    },
+    {
+        "codigo": "0033",
+        "nome": "BUERAREMA"
+    },
+    {
+        "codigo": "0034",
+        "nome": "CACHOEIRA"
+    },
+    {
+        "codigo": "0035",
+        "nome": "CACULÉ"
+    },
+    {
+        "codigo": "0036",
+        "nome": "CAETITÉ"
+    },
+    {
+        "codigo": "0037",
+        "nome": "CALDEIRÃO GRANDE"
+    },
+    {
+        "codigo": "0038",
+        "nome": "CAMACÃ"
+    },
+    {
+        "codigo": "0039",
+        "nome": "CAMAÇARI"
+    },
+    {
+        "codigo": "0040",
+        "nome": "CAMAMU"
+    },
+    {
+        "codigo": "0041",
+        "nome": "CAMPO FORMOSO"
+    },
+    {
+        "codigo": "0042",
+        "nome": "CANARANA"
+    },
+    {
+        "codigo": "0043",
+        "nome": "CANAVIEIRAS"
+    },
+    {
+        "codigo": "0044",
+        "nome": "CANDEIAS"
+    },
+    {
+        "codigo": "0045",
+        "nome": "CÂNDIDO SALES"
+    },
+    {
+        "codigo": "0046",
+        "nome": "CANSANÇÃO"
+    },
+    {
+        "codigo": "0047",
+        "nome": "CANUDOS"
+    },
+    {
+        "codigo": "0048",
+        "nome": "CAPELA DO ALTO ALEGRE"
+    },
+    {
+        "codigo": "0049",
+        "nome": "CAPIM GROSSO"
+    },
+    {
+        "codigo": "0050",
+        "nome": "CARAVELAS"
+    },
+    {
+        "codigo": "0051",
+        "nome": "CARINHANHA"
+    },
+    {
+        "codigo": "0052",
+        "nome": "CASA NOVA"
+    },
+    {
+        "codigo": "0053",
+        "nome": "CASTRO ALVES"
+    },
+    {
+        "codigo": "0054",
+        "nome": "CATU"
+    },
+    {
+        "codigo": "0055",
+        "nome": "CENTRAL"
+    },
+    {
+        "codigo": "0056",
+        "nome": "CHORROCHÓ"
+    },
+    {
+        "codigo": "0057",
+        "nome": "CÍCERO DANTAS"
+    },
+    {
+        "codigo": "0058",
+        "nome": "CIPÓ"
+    },
+    {
+        "codigo": "0059",
+        "nome": "COARACI"
+    },
+    {
+        "codigo": "0060",
+        "nome": "CÔCOS"
+    },
+    {
+        "codigo": "0061",
+        "nome": "CONCEIÇÃO DA FEIRA"
+    },
+    {
+        "codigo": "0062",
+        "nome": "CONCEIÇÃO DO ALMEIDA"
+    },
+    {
+        "codigo": "0063",
+        "nome": "CONCEIÇÃO DO COITÉ"
+    },
+    {
+        "codigo": "0064",
+        "nome": "CONCEIÇÃO DO JACUÍPE"
+    },
+    {
+        "codigo": "0065",
+        "nome": "CONDE"
+    },
+    {
+        "codigo": "0066",
+        "nome": "CONDEÚBA"
+    },
+    {
+        "codigo": "0067",
+        "nome": "CORAÇÃO DE MARIA"
+    },
+    {
+        "codigo": "0068",
+        "nome": "CORIBE"
+    },
+    {
+        "codigo": "0069",
+        "nome": "CORRENTINA"
+    },
+    {
+        "codigo": "0070",
+        "nome": "COTEGIPE"
+    },
+    {
+        "codigo": "0071",
+        "nome": "CRISTÓPOLIS"
+    },
+    {
+        "codigo": "0072",
+        "nome": "CRUZ DAS ALMAS"
+    },
+    {
+        "codigo": "0073",
+        "nome": "CURAÇÁ"
+    },
+    {
+        "codigo": "0074",
+        "nome": "DIAS D'ÁVILA"
+    },
+    {
+        "codigo": "0075",
+        "nome": "ENCRUZILHADA"
+    },
+    {
+        "codigo": "0076",
+        "nome": "ENTRE RIOS"
+    },
+    {
+        "codigo": "0077",
+        "nome": "ESPLANADA"
+    },
+    {
+        "codigo": "0078",
+        "nome": "EUCLIDES DA CUNHA"
+    },
+    {
+        "codigo": "0079",
+        "nome": "EUNÁPOLIS"
+    },
+    {
+        "codigo": "0080",
+        "nome": "FEIRA DE SANTANA"
+    },
+    {
+        "codigo": "0081",
+        "nome": "FORMOSA DO RIO PRETO"
+    },
+    {
+        "codigo": "0082",
+        "nome": "GANDU"
+    },
+    {
+        "codigo": "0083",
+        "nome": "GAVIÃO"
+    },
+    {
+        "codigo": "0084",
+        "nome": "GENTIO DO OURO"
+    },
+    {
+        "codigo": "0085",
+        "nome": "GLÓRIA"
+    },
+    {
+        "codigo": "0086",
+        "nome": "GOVERNADOR LOMANTO JÚNIOR"
+    },
+    {
+        "codigo": "0087",
+        "nome": "GOVERNADOR MANGABEIRA"
+    },
+    {
+        "codigo": "0088",
+        "nome": "GUANAMBI"
+    },
+    {
+        "codigo": "0089",
+        "nome": "GUARATINGA"
+    },
+    {
+        "codigo": "0090",
+        "nome": "IAÇU"
+    },
+    {
+        "codigo": "0091",
+        "nome": "IBICARAÍ"
+    },
+    {
+        "codigo": "0092",
+        "nome": "IBICUÍ"
+    },
+    {
+        "codigo": "0093",
+        "nome": "IBIQUERA"
+    },
+    {
+        "codigo": "0094",
+        "nome": "IBIRAPITANGA"
+    },
+    {
+        "codigo": "0095",
+        "nome": "IBIRAPUÃ"
+    },
+    {
+        "codigo": "0096",
+        "nome": "IBIRATAIA"
+    },
+    {
+        "codigo": "0097",
+        "nome": "IBITIARA"
+    },
+    {
+        "codigo": "0098",
+        "nome": "IBITITÁ"
+    },
+    {
+        "codigo": "0099",
+        "nome": "IBOTIRAMA"
+    },
+    {
+        "codigo": "0100",
+        "nome": "ICHU"
+    },
+    {
+        "codigo": "0101",
+        "nome": "IGAPORÃ"
+    },
+    {
+        "codigo": "0102",
+        "nome": "IGUAÍ"
+    },
+    {
+        "codigo": "0103",
+        "nome": "ILHÉUS"
+    },
+    {
+        "codigo": "0104",
+        "nome": "INHAMBUPE"
+    },
+    {
+        "codigo": "0105",
+        "nome": "IPIAÚ"
+    },
+    {
+        "codigo": "0106",
+        "nome": "IPIRÁ"
+    },
+    {
+        "codigo": "0107",
+        "nome": "IRAMAIA"
+    },
+    {
+        "codigo": "0108",
+        "nome": "IRAQUARA"
+    },
+    {
+        "codigo": "0109",
+        "nome": "IRARÁ"
+    },
+    {
+        "codigo": "0110",
+        "nome": "IRECÊ"
+    },
+    {
+        "codigo": "0111",
+        "nome": "ITABELA"
+    },
+    {
+        "codigo": "0112",
+        "nome": "ITABERABA"
+    },
+    {
+        "codigo": "0113",
+        "nome": "ITABUNA"
+    },
+    {
+        "codigo": "0114",
+        "nome": "ITACARÉ"
+    },
+    {
+        "codigo": "0115",
+        "nome": "ITAETÉ"
+    },
+    {
+        "codigo": "0116",
+        "nome": "ITAGI"
+    },
+    {
+        "codigo": "0117",
+        "nome": "ITAGIBÁ"
+    },
+    {
+        "codigo": "0118",
+        "nome": "ITAGIMIRIM"
+    },
+    {
+        "codigo": "0119",
+        "nome": "ITAJUÍPE"
+    },
+    {
+        "codigo": "0120",
+        "nome": "ITAMARAJU"
+    },
+    {
+        "codigo": "0121",
+        "nome": "ITAMARI"
+    },
+    {
+        "codigo": "0122",
+        "nome": "ITAMBÉ"
+    },
+    {
+        "codigo": "0123",
+        "nome": "ITANHÉM"
+    },
+    {
+        "codigo": "0124",
+        "nome": "ITAPARICA"
+    },
+    {
+        "codigo": "0125",
+        "nome": "ITAPEBI"
+    },
+    {
+        "codigo": "0126",
+        "nome": "ITAPETINGA"
+    },
+    {
+        "codigo": "0127",
+        "nome": "ITAPICURU"
+    },
+    {
+        "codigo": "0128",
+        "nome": "ITAPITANGA"
+    },
+    {
+        "codigo": "0129",
+        "nome": "ITAQUARA"
+    },
+    {
+        "codigo": "0130",
+        "nome": "ITARANTIM"
+    },
+    {
+        "codigo": "0131",
+        "nome": "ITIRUÇU"
+    },
+    {
+        "codigo": "0132",
+        "nome": "ITIÚBA"
+    },
+    {
+        "codigo": "0133",
+        "nome": "ITORORÓ"
+    },
+    {
+        "codigo": "0134",
+        "nome": "ITUAÇU"
+    },
+    {
+        "codigo": "0135",
+        "nome": "ITUBERÁ"
+    },
+    {
+        "codigo": "0136",
+        "nome": "JACARACI"
+    },
+    {
+        "codigo": "0137",
+        "nome": "JACOBINA"
+    },
+    {
+        "codigo": "0138",
+        "nome": "JAGUAQUARA"
+    },
+    {
+        "codigo": "0139",
+        "nome": "JAGUARARI"
+    },
+    {
+        "codigo": "0140",
+        "nome": "JAGUARIPE"
+    },
+    {
+        "codigo": "0141",
+        "nome": "JEQUIÉ"
+    },
+    {
+        "codigo": "0142",
+        "nome": "JEREMOABO"
+    },
+    {
+        "codigo": "0143",
+        "nome": "JIQUIRIÇÁ"
+    },
+    {
+        "codigo": "0144",
+        "nome": "JITAÚNA"
+    },
+    {
+        "codigo": "0145",
+        "nome": "JOÃO DOURADO"
+    },
+    {
+        "codigo": "0146",
+        "nome": "JUAZEIRO"
+    },
+    {
+        "codigo": "0147",
+        "nome": "JUSSARA"
+    },
+    {
+        "codigo": "0148",
+        "nome": "LAJE"
+    },
+    {
+        "codigo": "0149",
+        "nome": "LAPÃO"
+    },
+    {
+        "codigo": "0150",
+        "nome": "LAURO DE FREITAS"
+    },
+    {
+        "codigo": "0151",
+        "nome": "LENÇÓIS"
+    },
+    {
+        "codigo": "0152",
+        "nome": "LICÍNIO DE ALMEIDA"
+    },
+    {
+        "codigo": "0153",
+        "nome": "LIVRAMENTO DE NOSSA SENHORA"
+    },
+    {
+        "codigo": "0154",
+        "nome": "LUIS EDUARDO MAGALHÃES"
+    },
+    {
+        "codigo": "0155",
+        "nome": "MACARANI"
+    },
+    {
+        "codigo": "0156",
+        "nome": "MACAÚBAS"
+    },
+    {
+        "codigo": "0157",
+        "nome": "MACURURÉ"
+    },
+    {
+        "codigo": "0158",
+        "nome": "MAIRI"
+    },
+    {
+        "codigo": "0159",
+        "nome": "MALHADA"
+    },
+    {
+        "codigo": "0160",
+        "nome": "MARACÁS"
+    },
+    {
+        "codigo": "0161",
+        "nome": "MARAGOGIPE"
+    },
+    {
+        "codigo": "0162",
+        "nome": "MARAÚ"
+    },
+    {
+        "codigo": "0163",
+        "nome": "MARCIONÍLIO SOUZA"
+    },
+    {
+        "codigo": "0164",
+        "nome": "MATA DE SÃO JOÃO"
+    },
+    {
+        "codigo": "0165",
+        "nome": "MEDEIROS NETO"
+    },
+    {
+        "codigo": "0166",
+        "nome": "MIGUEL CALMON"
+    },
+    {
+        "codigo": "0167",
+        "nome": "MILAGRES"
+    },
+    {
+        "codigo": "0168",
+        "nome": "MONTE SANTO"
+    },
+    {
+        "codigo": "0169",
+        "nome": "MORPARÁ"
+    },
+    {
+        "codigo": "0170",
+        "nome": "MORRO DO CHAPÉU"
+    },
+    {
+        "codigo": "0171",
+        "nome": "MUCUGÊ"
+    },
+    {
+        "codigo": "0172",
+        "nome": "MUCURI"
+    },
+    {
+        "codigo": "0173",
+        "nome": "MUNDO NOVO"
+    },
+    {
+        "codigo": "0174",
+        "nome": "MURITIBA"
+    },
+    {
+        "codigo": "0175",
+        "nome": "MUTUÍPE"
+    },
+    {
+        "codigo": "0176",
+        "nome": "NAZARÉ"
+    },
+    {
+        "codigo": "0177",
+        "nome": "NILO PEÇANHA"
+    },
+    {
+        "codigo": "0178",
+        "nome": "NORDESTINA"
+    },
+    {
+        "codigo": "0179",
+        "nome": "NOVA CANAÃ"
+    },
+    {
+        "codigo": "0180",
+        "nome": "NOVA FÁTIMA"
+    },
+    {
+        "codigo": "0181",
+        "nome": "NOVA SOURE"
+    },
+    {
+        "codigo": "0182",
+        "nome": "NOVA VIÇOSA"
+    },
+    {
+        "codigo": "0183",
+        "nome": "OLINDINA"
+    },
+    {
+        "codigo": "0184",
+        "nome": "OLIVEIRA DOS BREJINHOS"
+    },
+    {
+        "codigo": "0185",
+        "nome": "PALMAS DE MONTE ALTO"
+    },
+    {
+        "codigo": "0186",
+        "nome": "PALMEIRAS"
+    },
+    {
+        "codigo": "0187",
+        "nome": "PARAMIRIM"
+    },
+    {
+        "codigo": "0188",
+        "nome": "PARATINGA"
+    },
+    {
+        "codigo": "0189",
+        "nome": "PARIPIRANGA"
+    },
+    {
+        "codigo": "0190",
+        "nome": "PAU BRASIL"
+    },
+    {
+        "codigo": "0191",
+        "nome": "PAULO AFONSO"
+    },
+    {
+        "codigo": "0192",
+        "nome": "PÉ DE SERRA"
+    },
+    {
+        "codigo": "0193",
+        "nome": "PIATÃ"
+    },
+    {
+        "codigo": "0194",
+        "nome": "PILÃO ARCADO"
+    },
+    {
+        "codigo": "0195",
+        "nome": "PINDAÍ"
+    },
+    {
+        "codigo": "0196",
+        "nome": "PINDOBAÇU"
+    },
+    {
+        "codigo": "0197",
+        "nome": "PIRITIBA"
+    },
+    {
+        "codigo": "0198",
+        "nome": "PLANALTO"
+    },
+    {
+        "codigo": "0199",
+        "nome": "POÇÕES"
+    },
+    {
+        "codigo": "0200",
+        "nome": "POJUCA"
+    },
+    {
+        "codigo": "0201",
+        "nome": "PORTO SEGURO"
+    },
+    {
+        "codigo": "0202",
+        "nome": "POTIRAGUÁ"
+    },
+    {
+        "codigo": "0203",
+        "nome": "PRADO"
+    },
+    {
+        "codigo": "0204",
+        "nome": "PRESIDENTE DUTRA"
+    },
+    {
+        "codigo": "0205",
+        "nome": "PRESIDENTE JÂNIO QUADROS"
+    },
+    {
+        "codigo": "0206",
+        "nome": "QUEIMADAS"
+    },
+    {
+        "codigo": "0207",
+        "nome": "QUIXABEIRA"
+    },
+    {
+        "codigo": "0208",
+        "nome": "REMANSO"
+    },
+    {
+        "codigo": "0209",
+        "nome": "RETIROLÂNDIA"
+    },
+    {
+        "codigo": "0210",
+        "nome": "RIACHÃO DAS NEVES"
+    },
+    {
+        "codigo": "0211",
+        "nome": "RIACHÃO DO JACUÍPE"
+    },
+    {
+        "codigo": "0212",
+        "nome": "RIACHO DE SANTANA"
+    },
+    {
+        "codigo": "0213",
+        "nome": "RIBEIRA DO POMBAL"
+    },
+    {
+        "codigo": "0214",
+        "nome": "RIO DE CONTAS"
+    },
+    {
+        "codigo": "0215",
+        "nome": "RIO DO ANTÔNIO"
+    },
+    {
+        "codigo": "0216",
+        "nome": "RIO REAL"
+    },
+    {
+        "codigo": "0217",
+        "nome": "RODELAS"
+    },
+    {
+        "codigo": "0218",
+        "nome": "RUY BARBOSA"
+    },
+    {
+        "codigo": "0219",
+        "nome": "SANTA BÁRBARA"
+    },
+    {
+        "codigo": "0220",
+        "nome": "SANTA CRUZ  CABRÁLIA"
+    },
+    {
+        "codigo": "0221",
+        "nome": "SANTA INÊS"
+    },
+    {
+        "codigo": "0222",
+        "nome": "SANTA LUZIA"
+    },
+    {
+        "codigo": "0223",
+        "nome": "SANTA MARIA DA VITÓRIA"
+    },
+    {
+        "codigo": "0224",
+        "nome": "SANTA RITA DE CÁSSIA"
+    },
+    {
+        "codigo": "0225",
+        "nome": "SANTA TEREZINHA"
+    },
+    {
+        "codigo": "0226",
+        "nome": "SANTALUZ"
+    },
+    {
+        "codigo": "0227",
+        "nome": "SANTANA"
+    },
+    {
+        "codigo": "0228",
+        "nome": "SANTO AMARO"
+    },
+    {
+        "codigo": "0229",
+        "nome": "SANTO ANTÔNIO DE JESUS"
+    },
+    {
+        "codigo": "0230",
+        "nome": "SANTO ESTEVÃO"
+    },
+    {
+        "codigo": "0231",
+        "nome": "SÃO DESIDÉRIO"
+    },
+    {
+        "codigo": "0232",
+        "nome": "SÃO DOMINGOS"
+    },
+    {
+        "codigo": "0233",
+        "nome": "SÃO FELIPE"
+    },
+    {
+        "codigo": "0234",
+        "nome": "SÃO FÉLIX"
+    },
+    {
+        "codigo": "0235",
+        "nome": "SÃO FRANCISCO DO CONDE"
+    },
+    {
+        "codigo": "0236",
+        "nome": "SÃO GABRIEL"
+    },
+    {
+        "codigo": "0237",
+        "nome": "SÃO GONÇALO DOS CAMPOS"
+    },
+    {
+        "codigo": "0238",
+        "nome": "SÃO JOSÉ DO JACUÍPE"
+    },
+    {
+        "codigo": "0239",
+        "nome": "SÃO SEBASTIÃO DO PASSÉ"
+    },
+    {
+        "codigo": "0240",
+        "nome": "SAPEAÇU"
+    },
+    {
+        "codigo": "0241",
+        "nome": "SÁTIRO DIAS"
+    },
+    {
+        "codigo": "0242",
+        "nome": "SAÚDE"
+    },
+    {
+        "codigo": "0243",
+        "nome": "SEABRA"
+    },
+    {
+        "codigo": "0244",
+        "nome": "SENHOR DO BONFIM"
+    },
+    {
+        "codigo": "0245",
+        "nome": "SENTO SÉ"
+    },
+    {
+        "codigo": "0246",
+        "nome": "SERRA DOURADA"
+    },
+    {
+        "codigo": "0247",
+        "nome": "SERRA PRETA"
+    },
+    {
+        "codigo": "0248",
+        "nome": "SERRINHA"
+    },
+    {
+        "codigo": "0249",
+        "nome": "SERROLÂNDIA"
+    },
+    {
+        "codigo": "0250",
+        "nome": "SIMÕES FILHO"
+    },
+    {
+        "codigo": "0251",
+        "nome": "SOBRADINHO"
+    },
+    {
+        "codigo": "0252",
+        "nome": "SOUTO SOARES"
+    },
+    {
+        "codigo": "0253",
+        "nome": "TANHAÇU"
+    },
+    {
+        "codigo": "0254",
+        "nome": "TANQUE NOVO"
+    },
+    {
+        "codigo": "0255",
+        "nome": "TAPEROÁ"
+    },
+    {
+        "codigo": "0256",
+        "nome": "TEIXEIRA DE FREITAS"
+    },
+    {
+        "codigo": "0257",
+        "nome": "TEODORO SAMPAIO"
+    },
+    {
+        "codigo": "0258",
+        "nome": "TEOFILÂNDIA"
+    },
+    {
+        "codigo": "0259",
+        "nome": "TERRA NOVA"
+    },
+    {
+        "codigo": "0260",
+        "nome": "TREMEDAL"
+    },
+    {
+        "codigo": "0261",
+        "nome": "TUCANO"
+    },
+    {
+        "codigo": "0262",
+        "nome": "UAUÁ"
+    },
+    {
+        "codigo": "0263",
+        "nome": "UBAÍRA"
+    },
+    {
+        "codigo": "0264",
+        "nome": "UBAITABA"
+    },
+    {
+        "codigo": "0265",
+        "nome": "UBATÃ"
+    },
+    {
+        "codigo": "0266",
+        "nome": "UIBAÍ"
+    },
+    {
+        "codigo": "0267",
+        "nome": "UNA"
+    },
+    {
+        "codigo": "0268",
+        "nome": "URANDI"
+    },
+    {
+        "codigo": "0269",
+        "nome": "URUÇUCA"
+    },
+    {
+        "codigo": "0270",
+        "nome": "UTINGA"
+    },
+    {
+        "codigo": "0271",
+        "nome": "VALENÇA"
+    },
+    {
+        "codigo": "0272",
+        "nome": "VALENTE"
+    },
+    {
+        "codigo": "0273",
+        "nome": "VÁRZEA DO POÇO"
+    },
+    {
+        "codigo": "0274",
+        "nome": "VITÓRIA DA CONQUISTA"
+    },
+    {
+        "codigo": "0275",
+        "nome": "WANDERLEY"
+    },
+    {
+        "codigo": "0276",
+        "nome": "WENCESLAU GUIMARÃES"
+    },
+    {
+        "codigo": "0277",
+        "nome": "XIQUE-XIQUE"
+    },
+    {
+        "codigo": "9000",
+        "nome": "TURMAS RECURSAIS"
+    }
+]

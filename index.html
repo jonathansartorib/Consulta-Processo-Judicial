@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">´
+
+    <!-- Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;600&display=swap" rel="stylesheet">
+
+    <!-- Style -->
+    <link rel="stylesheet" href="./style/reset.css">
+    <link rel="stylesheet" href="./style/main.css">
+
+
+    <title>Consultar Origem de Processo judicial</title>
+
+</head>
+
+<body>
+
+    <main>
+
+        <div class="container">
+
+            <h2 id="titulo">Consultar Origem de Processo judicial</h2>
+            <p id="instrucoes">Pesquisa os dados do seu processo como os locais onde ele foi gerado.</p>
+            <p id="formato-do-texto">O número deve seguir o seguinte padrão: <strong>0000000-00.0000.0.00.0000</strong></p>
+
+            <div class="box">
+                <label for="txt-numero-processo">Insira o numero do processo</label>
+                <input type="text" name="txt-numero-processo" id="txt-numero-processo">
+            </div>
+
+            <button type="submit" id="btn-consultar">Consultar</button>
+
+            <span id="msgErro" class="hidden">Número do processo não é valido</span>
+
+            <div class="resultado-da-busca">
+                <span class="span-resultado hidden" id="txtNumeroSequencial"></span>
+                <span class="span-resultado hidden" id="txtDigitoVerificador"></span>
+                <span class="span-resultado hidden" id="txtAnoAjuizamento"></span>
+                <span class="span-resultado hidden" id="txtOrgaoSegmento"></span>
+                <span class="span-resultado hidden" id="txtUnidadeOrigem"></span>
+                <button class="span-resultado hidden" id="btnNovaConsulta">Nova Consulta</button>
+            </div>
+
+        </div>
+    </main>
+
+    <script src="./script/script.js"></script>
+
+</body>
+
+
+</html>

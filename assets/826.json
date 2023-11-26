@@ -1,0 +1,1934 @@
+[
+    {
+        "codigo": "0000",
+        "nome": "Tribunal de Justiça de São Paulo"
+    },
+    {
+        "codigo": "0001",
+        "nome": "Foro Regional I - Santana"
+    },
+    {
+        "codigo": "0002",
+        "nome": "Foro Regional II - Santo Amaro"
+    },
+    {
+        "codigo": "0003",
+        "nome": "Foro Regional III - Jabaquara"
+    },
+    {
+        "codigo": "0004",
+        "nome": "Foro Regional IV - Lapa"
+    },
+    {
+        "codigo": "0005",
+        "nome": "Foro Regional V - São Miguel Paulista"
+    },
+    {
+        "codigo": "0006",
+        "nome": "Foro Regional VI - Penha de França"
+    },
+    {
+        "codigo": "0007",
+        "nome": "Foro Regional VII - Itaquera"
+    },
+    {
+        "codigo": "0008",
+        "nome": "Foro Regional VIII - Tatuapé"
+    },
+    {
+        "codigo": "0009",
+        "nome": "Foro Regional IX - Vila Prudente"
+    },
+    {
+        "codigo": "0010",
+        "nome": "Foro Regional X - Ipiranga"
+    },
+    {
+        "codigo": "0011",
+        "nome": "Foro Regional XI - Pinheiros"
+    },
+    {
+        "codigo": "0014",
+        "nome": "Foro das Execuções Fiscais Estaduais"
+    },
+    {
+        "codigo": "0015",
+        "nome": "Foro Especial da Infância e Juventude"
+    },
+    {
+        "codigo": "0016",
+        "nome": "Foro Central Juizados Especiais Cíveis"
+    },
+    {
+        "codigo": "0019",
+        "nome": "Foro de Americana"
+    },
+    {
+        "codigo": "0020",
+        "nome": "Foro Regional XII - Nossa Senhora do Ó"
+    },
+    {
+        "codigo": "0021",
+        "nome": "Setor de Cartas Precatórias Cíveis - Cap"
+    },
+    {
+        "codigo": "0022",
+        "nome": "Foro de Amparo"
+    },
+    {
+        "codigo": "0024",
+        "nome": "Foro de Andradina"
+    },
+    {
+        "codigo": "0025",
+        "nome": "Foro de Angatuba"
+    },
+    {
+        "codigo": "0026",
+        "nome": "Bauru/DEECRIM"
+    },
+    {
+        "codigo": "0027",
+        "nome": "Foro de Iacanga"
+    },
+    {
+        "codigo": "0028",
+        "nome": "Foro de Aparecida"
+    },
+    {
+        "codigo": "0030",
+        "nome": "Foro de Apiaí"
+    },
+    {
+        "codigo": "0032",
+        "nome": "Foro de Araçatuba"
+    },
+    {
+        "codigo": "0035",
+        "nome": "Foro de Águas de Lindoia"
+    },
+    {
+        "codigo": "0036",
+        "nome": ""
+    },
+    {
+        "codigo": "0037",
+        "nome": "Foro de Araraquara"
+    },
+    {
+        "codigo": "0038",
+        "nome": "Foro de Araras"
+    },
+    {
+        "codigo": "0040",
+        "nome": "Foro de Américo Brasiliense"
+    },
+    {
+        "codigo": "0041",
+        "nome": "São Paulo/DEECRIM"
+    },
+    {
+        "codigo": "0042",
+        "nome": "Foro de Altinópolis"
+    },
+    {
+        "codigo": "0045",
+        "nome": "Foro de Arujá"
+    },
+    {
+        "codigo": "0047",
+        "nome": "Foro de Assis"
+    },
+    {
+        "codigo": "0048",
+        "nome": "Foro de Atibaia"
+    },
+    {
+        "codigo": "0050",
+        "nome": "Foro Central Criminal Barra Funda"
+    },
+    {
+        "codigo": "0052",
+        "nome": "Foro Central Criminal - Jur"
+    },
+    {
+        "codigo": "0053",
+        "nome": "Foro Central - Fazenda Pública/Acidentes"
+    },
+    {
+        "codigo": "0058",
+        "nome": "Foro de Agudos"
+    },
+    {
+        "codigo": "0059",
+        "nome": "Foro de Bananal"
+    },
+    {
+        "codigo": "0060",
+        "nome": "Foro de Auriflama"
+    },
+    {
+        "codigo": "0062",
+        "nome": "Foro de Bariri"
+    },
+    {
+        "codigo": "0063",
+        "nome": "Foro de Barra Bonita"
+    },
+    {
+        "codigo": "0066",
+        "nome": "Foro de Barretos"
+    },
+    {
+        "codigo": "0067",
+        "nome": "Foro de Borborema"
+    },
+    {
+        "codigo": "0068",
+        "nome": "Foro de Barueri"
+    },
+    {
+        "codigo": "0069",
+        "nome": "Foro de Bastos"
+    },
+    {
+        "codigo": "0070",
+        "nome": "Foro de Batatais"
+    },
+    {
+        "codigo": "0071",
+        "nome": "Foro de Bauru"
+    },
+    {
+        "codigo": "0072",
+        "nome": "Foro de Bebedouro"
+    },
+    {
+        "codigo": "0073",
+        "nome": "Foro de Avaré"
+    },
+    {
+        "codigo": "0075",
+        "nome": "Foro de Bertioga"
+    },
+    {
+        "codigo": "0076",
+        "nome": "Foro de Bilac"
+    },
+    {
+        "codigo": "0077",
+        "nome": "Foro de Birigui"
+    },
+    {
+        "codigo": "0079",
+        "nome": "Foro de Botucatu"
+    },
+    {
+        "codigo": "0080",
+        "nome": "Foro de Cabreúva"
+    },
+    {
+        "codigo": "0081",
+        "nome": "Foro de Adamantina"
+    },
+    {
+        "codigo": "0082",
+        "nome": "Foro de Boituva"
+    },
+    {
+        "codigo": "0083",
+        "nome": "Foro de Aguaí"
+    },
+    {
+        "codigo": "0084",
+        "nome": "Foro Regional de Vila Mimosa"
+    },
+    {
+        "codigo": "0090",
+        "nome": "Foro das Execuções Fiscais Municipais"
+    },
+    {
+        "codigo": "0091",
+        "nome": "ANTIGO Foro Distrital de Brás Cubas"
+    },
+    {
+        "codigo": "0093",
+        "nome": "Foro Distrital de Vicente de Carvalho"
+    },
+    {
+        "codigo": "0094",
+        "nome": "Foro de Brodowski"
+    },
+    {
+        "codigo": "0095",
+        "nome": "Foro de Brotas"
+    },
+    {
+        "codigo": "0097",
+        "nome": "Foro de Buritama"
+    },
+    {
+        "codigo": "0099",
+        "nome": "Foro de Bragança Paulista"
+    },
+    {
+        "codigo": "0100",
+        "nome": "Foro Central Cível"
+    },
+    {
+        "codigo": "0101",
+        "nome": "Foro de Caçapava"
+    },
+    {
+        "codigo": "0102",
+        "nome": "Foro de Cachoeira Paulista"
+    },
+    {
+        "codigo": "0103",
+        "nome": "Foro de Caconde"
+    },
+    {
+        "codigo": "0104",
+        "nome": "Foro de Cafelândia"
+    },
+    {
+        "codigo": "0106",
+        "nome": "Foro de Caieiras"
+    },
+    {
+        "codigo": "0108",
+        "nome": "Foro de Cajamar"
+    },
+    {
+        "codigo": "0111",
+        "nome": "Foro de Cajuru"
+    },
+    {
+        "codigo": "0114",
+        "nome": "Foro de Campinas"
+    },
+    {
+        "codigo": "0115",
+        "nome": "Foro de Campo Limpo Paulista"
+    },
+    {
+        "codigo": "0116",
+        "nome": "Foro de Campos do Jordão"
+    },
+    {
+        "codigo": "0118",
+        "nome": "Foro de Cananéia"
+    },
+    {
+        "codigo": "0120",
+        "nome": "Foro de Cândido Mota"
+    },
+    {
+        "codigo": "0123",
+        "nome": "Foro de Capão Bonito"
+    },
+    {
+        "codigo": "0125",
+        "nome": "Foro de Capivari"
+    },
+    {
+        "codigo": "0126",
+        "nome": "Foro de Caraguatatuba"
+    },
+    {
+        "codigo": "0127",
+        "nome": "Foro de Carapicuíba"
+    },
+    {
+        "codigo": "0128",
+        "nome": "Foro de Cardoso"
+    },
+    {
+        "codigo": "0129",
+        "nome": "Foro de Casa Branca"
+    },
+    {
+        "codigo": "0132",
+        "nome": "Foro de Catanduva"
+    },
+    {
+        "codigo": "0136",
+        "nome": "Foro de Cerqueira César"
+    },
+    {
+        "codigo": "0137",
+        "nome": "Foro de Cerquilho"
+    },
+    {
+        "codigo": "0140",
+        "nome": "Foro de Chavantes"
+    },
+    {
+        "codigo": "0142",
+        "nome": "Foro de Colina"
+    },
+    {
+        "codigo": "0144",
+        "nome": "Foro de Conchal"
+    },
+    {
+        "codigo": "0145",
+        "nome": "Foro de Conchas"
+    },
+    {
+        "codigo": "0146",
+        "nome": "Foro de Cordeirópolis"
+    },
+    {
+        "codigo": "0150",
+        "nome": "Foro de Cosmópolis"
+    },
+    {
+        "codigo": "0152",
+        "nome": "Foro de Cotia"
+    },
+    {
+        "codigo": "0153",
+        "nome": "Foro de Cravinhos"
+    },
+    {
+        "codigo": "0154",
+        "nome": "São José do Rio Preto/DEECRIM"
+    },
+    {
+        "codigo": "0156",
+        "nome": "Foro de Cruzeiro"
+    },
+    {
+        "codigo": "0157",
+        "nome": "Foro de Cubatão"
+    },
+    {
+        "codigo": "0158",
+        "nome": "Santos/DEECRIM"
+    },
+    {
+        "codigo": "0159",
+        "nome": "Foro de Cunha"
+    },
+    {
+        "codigo": "0160",
+        "nome": "Foro de Descalvado"
+    },
+    {
+        "codigo": "0161",
+        "nome": "Foro de Diadema"
+    },
+    {
+        "codigo": "0165",
+        "nome": "Foro de Dois Córregos"
+    },
+    {
+        "codigo": "0168",
+        "nome": "Foro de Dracena"
+    },
+    {
+        "codigo": "0169",
+        "nome": "Foro de Duartina"
+    },
+    {
+        "codigo": "0172",
+        "nome": "Foro de Eldorado Paulista"
+    },
+    {
+        "codigo": "0176",
+        "nome": "Foro de Embu das Artes"
+    },
+    {
+        "codigo": "0177",
+        "nome": "Foro de Embu -Guaçuu"
+    },
+    {
+        "codigo": "0180",
+        "nome": "Foro de Espírito Santo do Pinhal"
+    },
+    {
+        "codigo": "0185",
+        "nome": "Foro de Estrela D'Oeste"
+    },
+    {
+        "codigo": "0187",
+        "nome": "Foro de Fartura"
+    },
+    {
+        "codigo": "0189",
+        "nome": "Foro de Fernandópolis"
+    },
+    {
+        "codigo": "0191",
+        "nome": "Foro de Ferraz de Vasconcelos"
+    },
+    {
+        "codigo": "0196",
+        "nome": "Foro de Franca"
+    },
+    {
+        "codigo": "0197",
+        "nome": "Foro de Francisco Morato"
+    },
+    {
+        "codigo": "0198",
+        "nome": "Foro de Franco da Rocha"
+    },
+    {
+        "codigo": "0200",
+        "nome": "Foro de Gália"
+    },
+    {
+        "codigo": "0201",
+        "nome": "Foro de Garça"
+    },
+    {
+        "codigo": "0204",
+        "nome": "Foro de General Salgado"
+    },
+    {
+        "codigo": "0205",
+        "nome": "Foro de Getulina"
+    },
+    {
+        "codigo": "0210",
+        "nome": "Foro de Guaíra"
+    },
+    {
+        "codigo": "0213",
+        "nome": "Foro de Guará"
+    },
+    {
+        "codigo": "0218",
+        "nome": "Foro de Guararapes"
+    },
+    {
+        "codigo": "0219",
+        "nome": "Foro de Guararema"
+    },
+    {
+        "codigo": "0220",
+        "nome": "Foro de Guaratinguetá"
+    },
+    {
+        "codigo": "0222",
+        "nome": "Foro de Guariba"
+    },
+    {
+        "codigo": "0223",
+        "nome": "Foro de Guarujá"
+    },
+    {
+        "codigo": "0224",
+        "nome": "Foro de Guarulhos"
+    },
+    {
+        "codigo": "0228",
+        "nome": "Foro Plantão - 00ª CJ - Capital"
+    },
+    {
+        "codigo": "0229",
+        "nome": "Foro de Hortolândia"
+    },
+    {
+        "codigo": "0232",
+        "nome": "Foro de Cesário Lange"
+    },
+    {
+        "codigo": "0233",
+        "nome": "Foro de Ibaté"
+    },
+    {
+        "codigo": "0234",
+        "nome": "Foro - Corregedoria Geral da Justiça"
+    },
+    {
+        "codigo": "0236",
+        "nome": "Foro de Ibitinga"
+    },
+    {
+        "codigo": "0238",
+        "nome": "Foro de Ibiúna"
+    },
+    {
+        "codigo": "0240",
+        "nome": "Foro de Iepê"
+    },
+    {
+        "codigo": "0242",
+        "nome": "Foro de Igarapava"
+    },
+    {
+        "codigo": "0243",
+        "nome": "Foro UDAJ de Natividade da Serra"
+    },
+    {
+        "codigo": "0244",
+        "nome": "Foro de Iguape"
+    },
+    {
+        "codigo": "0246",
+        "nome": "Foro de Ilha Solteira"
+    },
+    {
+        "codigo": "0247",
+        "nome": "Foro de Ilhabela"
+    },
+    {
+        "codigo": "0248",
+        "nome": "Foro de Indaiatuba"
+    },
+    {
+        "codigo": "0252",
+        "nome": "Foro de Ipaussu"
+    },
+    {
+        "codigo": "0257",
+        "nome": "Foro de Ipuã"
+    },
+    {
+        "codigo": "0258",
+        "nome": "Foro da Casa da Mulher Brasileira"
+    },
+    {
+        "codigo": "0260",
+        "nome": "Foro Especializado da"
+    },
+    {
+        "codigo": "0262",
+        "nome": "Foro de Itaberá"
+    },
+    {
+        "codigo": "0263",
+        "nome": "Foro de Itaí"
+    },
+    {
+        "codigo": "0264",
+        "nome": "Foro de Itajobi"
+    },
+    {
+        "codigo": "0266",
+        "nome": "Foro de Itanhaém"
+    },
+    {
+        "codigo": "0268",
+        "nome": "Foro de Itapecerica da Serra"
+    },
+    {
+        "codigo": "0269",
+        "nome": "Foro de Itapetininga"
+    },
+    {
+        "codigo": "0270",
+        "nome": "Foro de Itapeva"
+    },
+    {
+        "codigo": "0271",
+        "nome": "Foro de Itapevi"
+    },
+    {
+        "codigo": "0272",
+        "nome": "Foro de Itapira"
+    },
+    {
+        "codigo": "0274",
+        "nome": "Foro de Itápolis"
+    },
+    {
+        "codigo": "0275",
+        "nome": "Foro de Itaporanga"
+    },
+    {
+        "codigo": "0278",
+        "nome": "Foro de Itaquaquecetuba"
+    },
+    {
+        "codigo": "0279",
+        "nome": "Foro de Itararé"
+    },
+    {
+        "codigo": "0280",
+        "nome": "Foro de Itariri"
+    },
+    {
+        "codigo": "0281",
+        "nome": "Foro de Itatiba"
+    },
+    {
+        "codigo": "0282",
+        "nome": "Foro de Itatinga"
+    },
+    {
+        "codigo": "0283",
+        "nome": "Foro de Itirapina"
+    },
+    {
+        "codigo": "0286",
+        "nome": "Foro de Itu"
+    },
+    {
+        "codigo": "0288",
+        "nome": "Foro de Ituverava"
+    },
+    {
+        "codigo": "0291",
+        "nome": "Foro de Jaboticabal"
+    },
+    {
+        "codigo": "0292",
+        "nome": "Foro de Jacareí"
+    },
+    {
+        "codigo": "0294",
+        "nome": "Foro de Jacupiranga"
+    },
+    {
+        "codigo": "0296",
+        "nome": "Foro de Jaguariúna"
+    },
+    {
+        "codigo": "0297",
+        "nome": "Foro de Jales"
+    },
+    {
+        "codigo": "0299",
+        "nome": "Foro de Jandira"
+    },
+    {
+        "codigo": "0300",
+        "nome": "Foro de Jardinópolis"
+    },
+    {
+        "codigo": "0301",
+        "nome": "Foro de Jarinu"
+    },
+    {
+        "codigo": "0302",
+        "nome": "Foro de Jaú"
+    },
+    {
+        "codigo": "0306",
+        "nome": "Foro de José Bonifácio"
+    },
+    {
+        "codigo": "0309",
+        "nome": "Foro de Jundiaí"
+    },
+    {
+        "codigo": "0311",
+        "nome": "Foro de Junqueirópolis"
+    },
+    {
+        "codigo": "0312",
+        "nome": "Foro de Juquiá"
+    },
+    {
+        "codigo": "0315",
+        "nome": "Foro de Laranjal Paulista"
+    },
+    {
+        "codigo": "0318",
+        "nome": "Foro de Leme"
+    },
+    {
+        "codigo": "0319",
+        "nome": "Foro de Lençóis Paulista"
+    },
+    {
+        "codigo": "0320",
+        "nome": "Foro de Limeira"
+    },
+    {
+        "codigo": "0322",
+        "nome": "Foro de Lins"
+    },
+    {
+        "codigo": "0323",
+        "nome": "Foro de Lorena"
+    },
+    {
+        "codigo": "0326",
+        "nome": "Foro de Lucélia"
+    },
+    {
+        "codigo": "0333",
+        "nome": "Foro de Macatuba"
+    },
+    {
+        "codigo": "0334",
+        "nome": "Foro de Macaubal"
+    },
+    {
+        "codigo": "0337",
+        "nome": "Foro de Mairinque"
+    },
+    {
+        "codigo": "0338",
+        "nome": "Foro de Mairiporã"
+    },
+    {
+        "codigo": "0341",
+        "nome": "Foro de Maracaí"
+    },
+    {
+        "codigo": "0344",
+        "nome": "Foro de Marília"
+    },
+    {
+        "codigo": "0346",
+        "nome": "Foro de Martinópolis"
+    },
+    {
+        "codigo": "0347",
+        "nome": "Foro de Matão"
+    },
+    {
+        "codigo": "0348",
+        "nome": "Foro de Mauá"
+    },
+    {
+        "codigo": "0351",
+        "nome": "NUPEMEC"
+    },
+    {
+        "codigo": "0352",
+        "nome": "Foro de Miguelópolis"
+    },
+    {
+        "codigo": "0355",
+        "nome": "Foro de Miracatu"
+    },
+    {
+        "codigo": "0356",
+        "nome": "Foro de Mirandópolis"
+    },
+    {
+        "codigo": "0357",
+        "nome": "Foro de Mirante do Paranapanema"
+    },
+    {
+        "codigo": "0358",
+        "nome": "Foro de Mirassol"
+    },
+    {
+        "codigo": "0360",
+        "nome": "Foro de Mococa"
+    },
+    {
+        "codigo": "0361",
+        "nome": "Foro de Mogi das Cruzes"
+    },
+    {
+        "codigo": "0362",
+        "nome": "Foro de Mogi Guaçu"
+    },
+    {
+        "codigo": "0363",
+        "nome": "Foro de Mogi Mirim"
+    },
+    {
+        "codigo": "0366",
+        "nome": "Foro de Mongaguá"
+    },
+    {
+        "codigo": "0368",
+        "nome": "Foro de Monte Alto"
+    },
+    {
+        "codigo": "0369",
+        "nome": "Foro de Monte Aprazível"
+    },
+    {
+        "codigo": "0370",
+        "nome": "Foro de Monte Azul Paulista"
+    },
+    {
+        "codigo": "0372",
+        "nome": "Foro de Monte Mor"
+    },
+    {
+        "codigo": "0374",
+        "nome": "Foro de Morro Agudo"
+    },
+    {
+        "codigo": "0382",
+        "nome": "Foro de Neves Paulista"
+    },
+    {
+        "codigo": "0383",
+        "nome": "Foro de Nhandeara"
+    },
+    {
+        "codigo": "0390",
+        "nome": "Foro de Nova Granada"
+    },
+    {
+        "codigo": "0394",
+        "nome": "Foro de Nova Odessa"
+    },
+    {
+        "codigo": "0396",
+        "nome": "Foro de Novo Horizonte"
+    },
+    {
+        "codigo": "0397",
+        "nome": "Foro de Nuporanga"
+    },
+    {
+        "codigo": "0400",
+        "nome": "Foro de Olímpia"
+    },
+    {
+        "codigo": "0404",
+        "nome": "Foro de Orlândia"
+    },
+    {
+        "codigo": "0405",
+        "nome": "Foro de Osasco"
+    },
+    {
+        "codigo": "0407",
+        "nome": "Foro de Osvaldo Cruz"
+    },
+    {
+        "codigo": "0408",
+        "nome": "Foro de Ourinhos"
+    },
+    {
+        "codigo": "0411",
+        "nome": "Foro de Pacaembu"
+    },
+    {
+        "codigo": "0412",
+        "nome": "Foro de Palestina"
+    },
+    {
+        "codigo": "0414",
+        "nome": "Foro de Palmeira D'Oeste"
+    },
+    {
+        "codigo": "0415",
+        "nome": "Foro de Palmital"
+    },
+    {
+        "codigo": "0416",
+        "nome": "Foro de Panorama"
+    },
+    {
+        "codigo": "0417",
+        "nome": "Foro de Paraguaçu Paulista"
+    },
+    {
+        "codigo": "0418",
+        "nome": "Foro de Paraibuna"
+    },
+    {
+        "codigo": "0420",
+        "nome": "Foro de Paranapanema"
+    },
+    {
+        "codigo": "0424",
+        "nome": "Foro de Pariquera -Açu"
+    },
+    {
+        "codigo": "0426",
+        "nome": "Foro de Patrocínio Paulista"
+    },
+    {
+        "codigo": "0428",
+        "nome": "Foro de Paulínia"
+    },
+    {
+        "codigo": "0430",
+        "nome": "Foro de Paulo de Faria"
+    },
+    {
+        "codigo": "0431",
+        "nome": "Foro de Pederneiras"
+    },
+    {
+        "codigo": "0434",
+        "nome": "Foro de Pedregulho"
+    },
+    {
+        "codigo": "0435",
+        "nome": "Foro de Pedreira"
+    },
+    {
+        "codigo": "0438",
+        "nome": "Foro de Penápolis"
+    },
+    {
+        "codigo": "0439",
+        "nome": "Foro de Pereira Barreto"
+    },
+    {
+        "codigo": "0441",
+        "nome": "Foro de Peruíbe"
+    },
+    {
+        "codigo": "0443",
+        "nome": "Foro de Piedade"
+    },
+    {
+        "codigo": "0444",
+        "nome": "Foro de Pilar do Sul"
+    },
+    {
+        "codigo": "0445",
+        "nome": "Foro de Pindamonhangaba"
+    },
+    {
+        "codigo": "0447",
+        "nome": "Foro de Pinhalzinho"
+    },
+    {
+        "codigo": "0449",
+        "nome": "Foro de Piquete"
+    },
+    {
+        "codigo": "0450",
+        "nome": "Foro de Piracaia"
+    },
+    {
+        "codigo": "0451",
+        "nome": "Foro de Piracicaba"
+    },
+    {
+        "codigo": "0452",
+        "nome": "Foro de Piraju"
+    },
+    {
+        "codigo": "0453",
+        "nome": "Foro de Pirajuí"
+    },
+    {
+        "codigo": "0456",
+        "nome": "Foro de Pirapozinho"
+    },
+    {
+        "codigo": "0457",
+        "nome": "Foro de Pirassununga"
+    },
+    {
+        "codigo": "0458",
+        "nome": "Foro de Piratininga"
+    },
+    {
+        "codigo": "0459",
+        "nome": "Foro de Pitangueiras"
+    },
+    {
+        "codigo": "0462",
+        "nome": "Foro de Poá"
+    },
+    {
+        "codigo": "0464",
+        "nome": "Foro de Pompéia"
+    },
+    {
+        "codigo": "0466",
+        "nome": "Foro de Pontal"
+    },
+    {
+        "codigo": "0470",
+        "nome": "Foro de Porangaba"
+    },
+    {
+        "codigo": "0471",
+        "nome": "Foro de Porto Feliz"
+    },
+    {
+        "codigo": "0472",
+        "nome": "Foro de Porto Ferreira"
+    },
+    {
+        "codigo": "0474",
+        "nome": "Foro de Potirendaba"
+    },
+    {
+        "codigo": "0477",
+        "nome": "Foro de Praia Grande"
+    },
+    {
+        "codigo": "0480",
+        "nome": "Foro de Presidente Bernardes"
+    },
+    {
+        "codigo": "0481",
+        "nome": "Foro de Presidente Epitácio"
+    },
+    {
+        "codigo": "0482",
+        "nome": "Foro de Presidente Prudente"
+    },
+    {
+        "codigo": "0483",
+        "nome": "Foro de Presidente Venceslau"
+    },
+    {
+        "codigo": "0484",
+        "nome": "Foro de Promissão"
+    },
+    {
+        "codigo": "0486",
+        "nome": "Foro de Quatá"
+    },
+    {
+        "codigo": "0488",
+        "nome": "Foro de Queluz"
+    },
+    {
+        "codigo": "0491",
+        "nome": "Foro de Rancharia"
+    },
+    {
+        "codigo": "0493",
+        "nome": "Foro de Regente Feijó"
+    },
+    {
+        "codigo": "0495",
+        "nome": "Foro de Registro"
+    },
+    {
+        "codigo": "0496",
+        "nome": "Ribeirão Preto/DEECRIM"
+    },
+    {
+        "codigo": "0498",
+        "nome": "Foro de Ribeirão Bonito"
+    },
+    {
+        "codigo": "0500",
+        "nome": "DEPRE"
+    },
+    {
+        "codigo": "0502",
+        "nome": "Campinas/DEECRIM"
+    },
+    {
+        "codigo": "0505",
+        "nome": "Foro de Ribeirão Pires"
+    },
+    {
+        "codigo": "0506",
+        "nome": "Foro de Ribeirão Preto"
+    },
+    {
+        "codigo": "0509",
+        "nome": "Araçatuba/DEECRIM"
+    },
+    {
+        "codigo": "0510",
+        "nome": "Foro de Rio Claro"
+    },
+    {
+        "codigo": "0511",
+        "nome": "Foro de Rio das Pedras"
+    },
+    {
+        "codigo": "0512",
+        "nome": "Foro de Rio Grande da Serra"
+    },
+    {
+        "codigo": "0514",
+        "nome": "Foro de Itupeva"
+    },
+    {
+        "codigo": "0515",
+        "nome": "Foro de Rosana"
+    },
+    {
+        "codigo": "0516",
+        "nome": "Foro de Roseira"
+    },
+    {
+        "codigo": "0520",
+        "nome": "São José dos Campos/DEECRIM"
+    },
+    {
+        "codigo": "0521",
+        "nome": "Sorocaba/DEECRIM"
+    },
+    {
+        "codigo": "0523",
+        "nome": "Foro de Salesópolis"
+    },
+    {
+        "codigo": "0526",
+        "nome": "Foro de Salto"
+    },
+    {
+        "codigo": "0529",
+        "nome": "Foro de Santana de Parnaíba"
+    },
+    {
+        "codigo": "0530",
+        "nome": "Foro Plantão - 41ª CJ - Ribeirão Preto"
+    },
+    {
+        "codigo": "0531",
+        "nome": "Foro de Santa Adélia"
+    },
+    {
+        "codigo": "0533",
+        "nome": "Foro de Santa Bárbara d'Oeste"
+    },
+    {
+        "codigo": "0534",
+        "nome": "Foro de Santa Branca"
+    },
+    {
+        "codigo": "0535",
+        "nome": "Foro Plantão - 44ª CJ - Guarulhos"
+    },
+    {
+        "codigo": "0536",
+        "nome": "Foro Plantão - 01ª CJ - Santos"
+    },
+    {
+        "codigo": "0537",
+        "nome": "Foro Plantão - 02ª CJ - São Be. Campo"
+    },
+    {
+        "codigo": "0538",
+        "nome": "Foro de Santa Cruz das Palmeiras"
+    },
+    {
+        "codigo": "0539",
+        "nome": "Foro de Santa Cruz do Rio Pardo"
+    },
+    {
+        "codigo": "0540",
+        "nome": "Foro Plantão - 03ª CJ - Santo André"
+    },
+    {
+        "codigo": "0541",
+        "nome": "Foro de Santa Fé do Sul"
+    },
+    {
+        "codigo": "0542",
+        "nome": "Foro Plantão - 04ª CJ - Osasco"
+    },
+    {
+        "codigo": "0543",
+        "nome": "Foro de Santa Isabel"
+    },
+    {
+        "codigo": "0544",
+        "nome": "Foro Plantão - 05ª CJ - Jundiaí"
+    },
+    {
+        "codigo": "0545",
+        "nome": "Foro Plantão - 06ª CJ - Brag. Paulista"
+    },
+    {
+        "codigo": "0546",
+        "nome": "Foro Plantão - 07ª CJ - Mogi Mirim"
+    },
+    {
+        "codigo": "0547",
+        "nome": "Foro de Santa Rita do Passa Quatro"
+    },
+    {
+        "codigo": "0548",
+        "nome": "Foro Plantão - 08ª CJ - Campinas"
+    },
+    {
+        "codigo": "0549",
+        "nome": "Foro de Santa Rosa de Viterbo"
+    },
+    {
+        "codigo": "0550",
+        "nome": "Foro Plantão - 09ª CJ - Rio Claro"
+    },
+    {
+        "codigo": "0551",
+        "nome": "Foro Plantão - 10ª CJ - Limeira"
+    },
+    {
+        "codigo": "0552",
+        "nome": "Foro Plantão - 11ª CJ - Pirassununga"
+    },
+    {
+        "codigo": "0553",
+        "nome": "Foro de Santo Anastácio"
+    },
+    {
+        "codigo": "0554",
+        "nome": "Foro de Santo André"
+    },
+    {
+        "codigo": "0555",
+        "nome": "Foro Plantão - 12ª CJ - São Carlos"
+    },
+    {
+        "codigo": "0556",
+        "nome": "Foro Plantão - 13ª CJ - Araraquara"
+    },
+    {
+        "codigo": "0557",
+        "nome": "Foro Plantão - 14ª CJ - Barretos"
+    },
+    {
+        "codigo": "0558",
+        "nome": "Foro Plantão - 15ª CJ - Catanduva"
+    },
+    {
+        "codigo": "0559",
+        "nome": "Foro Plantão - 16ª CJ - S. J. Rio Preto"
+    },
+    {
+        "codigo": "0560",
+        "nome": "Foro Plantão - 17ª CJ - Votuporanga"
+    },
+    {
+        "codigo": "0561",
+        "nome": "Foro Plantão - 18ª CJ - Fernandópolis"
+    },
+    {
+        "codigo": "0562",
+        "nome": "Foro de Santos"
+    },
+    {
+        "codigo": "0563",
+        "nome": "Foro de São Bento do Sapucaí"
+    },
+    {
+        "codigo": "0564",
+        "nome": "Foro de São Bernardo do Campo"
+    },
+    {
+        "codigo": "0565",
+        "nome": "Foro de São Caetano do Sul"
+    },
+    {
+        "codigo": "0566",
+        "nome": "Foro de São Carlos"
+    },
+    {
+        "codigo": "0567",
+        "nome": "Foro Plantão - 19ª CJ - Sorocaba"
+    },
+    {
+        "codigo": "0568",
+        "nome": "Foro de São João da Boa Vista"
+    },
+    {
+        "codigo": "0569",
+        "nome": "Foro Plantão - 20ª CJ - Itu"
+    },
+    {
+        "codigo": "0570",
+        "nome": "Foro Plantão - 21ª CJ - Registro"
+    },
+    {
+        "codigo": "0571",
+        "nome": "Foro Plantão - 22ª CJ - Itapetininga"
+    },
+    {
+        "codigo": "0572",
+        "nome": "Foro de São Joaquim da Barra"
+    },
+    {
+        "codigo": "0573",
+        "nome": "Foro Plantão - 23ª CJ - Botucatu"
+    },
+    {
+        "codigo": "0574",
+        "nome": "Foro Plantão - 24ª CJ - Avaré"
+    },
+    {
+        "codigo": "0575",
+        "nome": "Foro de São José do Rio Pardo"
+    },
+    {
+        "codigo": "0576",
+        "nome": "Foro de São José do Rio Preto"
+    },
+    {
+        "codigo": "0577",
+        "nome": "Foro de São José dos Campos"
+    },
+    {
+        "codigo": "0578",
+        "nome": "Foro Plantão - 25ª CJ - Ourinhos"
+    },
+    {
+        "codigo": "0579",
+        "nome": "Foro de São Luiz do Paraitinga"
+    },
+    {
+        "codigo": "0580",
+        "nome": "Foro Plantão - 26ª CJ - Assis"
+    },
+    {
+        "codigo": "0581",
+        "nome": "Foro de São Manuel"
+    },
+    {
+        "codigo": "0582",
+        "nome": "Foro de São Miguel Arcanjo"
+    },
+    {
+        "codigo": "0583",
+        "nome": "Foro Plantão - 27ª CJ - Pre. Prudente"
+    },
+    {
+        "codigo": "0584",
+        "nome": "Foro de São Pedro"
+    },
+    {
+        "codigo": "0585",
+        "nome": "Foro Plantão - 28ª CJ - Pre. Venceslau"
+    },
+    {
+        "codigo": "0586",
+        "nome": "Foro de São Roque"
+    },
+    {
+        "codigo": "0587",
+        "nome": "Foro de São Sebastião"
+    },
+    {
+        "codigo": "0588",
+        "nome": "Foro de São Sebastião da Grama"
+    },
+    {
+        "codigo": "0589",
+        "nome": "Foro de São Simão"
+    },
+    {
+        "codigo": "0590",
+        "nome": "Foro de ã3o Vicente"
+    },
+    {
+        "codigo": "0591",
+        "nome": "Foro Plantão - 29ª CJ - Dracena"
+    },
+    {
+        "codigo": "0592",
+        "nome": "Foro Plantão - 30ª CJ - Tupã"
+    },
+    {
+        "codigo": "0593",
+        "nome": "Foro Plantão - 31ª CJ - Marília"
+    },
+    {
+        "codigo": "0594",
+        "nome": "Foro Plantão - 32ª CJ - Bauru"
+    },
+    {
+        "codigo": "0595",
+        "nome": "Foro de Serra Negra"
+    },
+    {
+        "codigo": "0596",
+        "nome": "Foro de Serrana"
+    },
+    {
+        "codigo": "0597",
+        "nome": "Foro de Sertãozinho"
+    },
+    {
+        "codigo": "0598",
+        "nome": "Foro Plantão - 33ª CJ - Jaú"
+    },
+    {
+        "codigo": "0599",
+        "nome": "Foro Plantão - 34ª CJ - Piracicaba"
+    },
+    {
+        "codigo": "0600",
+        "nome": "Foro Plantão - 35ª CJ - Lins"
+    },
+    {
+        "codigo": "0601",
+        "nome": "Foro de Socorro"
+    },
+    {
+        "codigo": "0602",
+        "nome": "Foro de Sorocaba"
+    },
+    {
+        "codigo": "0603",
+        "nome": "Foro Plantão - 36ª CJ - Araçatuba"
+    },
+    {
+        "codigo": "0604",
+        "nome": "Foro de Sumaré"
+    },
+    {
+        "codigo": "0605",
+        "nome": "Foro Plantão - 37ª CJ - Andradina"
+    },
+    {
+        "codigo": "0606",
+        "nome": "Foro de Suzano"
+    },
+    {
+        "codigo": "0607",
+        "nome": "Foro de Tabapuã"
+    },
+    {
+        "codigo": "0608",
+        "nome": "Foro Plantão - 38ª CJ - Franca"
+    },
+    {
+        "codigo": "0609",
+        "nome": "Foro de Taboão da Serra"
+    },
+    {
+        "codigo": "0610",
+        "nome": "Foro Plantão - 39ª CJ - Batatais"
+    },
+    {
+        "codigo": "0611",
+        "nome": "Foro Plantão - 40ª CJ - Ituverava"
+    },
+    {
+        "codigo": "0612",
+        "nome": "Foro Plantão - 42ª CJ - Jaboticabal"
+    },
+    {
+        "codigo": "0613",
+        "nome": "Foro Plantão - 43ª CJ - Casa Branca"
+    },
+    {
+        "codigo": "0614",
+        "nome": "Foro de Tambaú"
+    },
+    {
+        "codigo": "0615",
+        "nome": "Foro de Tanabi"
+    },
+    {
+        "codigo": "0616",
+        "nome": "Foro Plantão - 45ª CJ - Mogi das Cruzes"
+    },
+    {
+        "codigo": "0617",
+        "nome": "Foro Plantão - 46ª CJ - S. J. dos Campos"
+    },
+    {
+        "codigo": "0618",
+        "nome": "Foro Plantão - 47ª CJ - Taubaté"
+    },
+    {
+        "codigo": "0619",
+        "nome": "Foro de Taquaritinga"
+    },
+    {
+        "codigo": "0620",
+        "nome": "Foro de Taquarituba"
+    },
+    {
+        "codigo": "0621",
+        "nome": "Foro Plantão - 48ª CJ - Guaratinguetá"
+    },
+    {
+        "codigo": "0622",
+        "nome": "Foro Plantão - 49ª CJ - Itapeva"
+    },
+    {
+        "codigo": "0623",
+        "nome": "Foro Plantão - 50ª CJ - S. J. Boa Vista"
+    },
+    {
+        "codigo": "0624",
+        "nome": "Foro de Tatuí"
+    },
+    {
+        "codigo": "0625",
+        "nome": "Foro de Taubaté"
+    },
+    {
+        "codigo": "0626",
+        "nome": "Foro Plantão - 51ª CJ - Caraguatatuba"
+    },
+    {
+        "codigo": "0627",
+        "nome": "Foro de Teodoro Sampaio"
+    },
+    {
+        "codigo": "0628",
+        "nome": "Foro Plantão - 52ª CJ - Itapec. da Serra"
+    },
+    {
+        "codigo": "0629",
+        "nome": "Foro de Tietê"
+    },
+    {
+        "codigo": "0630",
+        "nome": "Foro Plantão - 53ª CJ - Americana"
+    },
+    {
+        "codigo": "0631",
+        "nome": "Foro Plantão - 54ª CJ - Amparo"
+    },
+    {
+        "codigo": "0632",
+        "nome": "Foro Plantão - 55ª CJ - Jales"
+    },
+    {
+        "codigo": "0633",
+        "nome": "Foro Plantão - 56ª CJ - Itanhaém"
+    },
+    {
+        "codigo": "0634",
+        "nome": "Foro de Tremembé"
+    },
+    {
+        "codigo": "0635",
+        "nome": "Foro Plantão - 00ª CJ - Capital EXTINTO"
+    },
+    {
+        "codigo": "0637",
+        "nome": "Foro de Tupã"
+    },
+    {
+        "codigo": "0638",
+        "nome": "Foro de Tupi Paulista"
+    },
+    {
+        "codigo": "0642",
+        "nome": "Foro de Ubatuba"
+    },
+    {
+        "codigo": "0646",
+        "nome": "Foro de Urânia"
+    },
+    {
+        "codigo": "0648",
+        "nome": "Foro de Urupês"
+    },
+    {
+        "codigo": "0650",
+        "nome": "Foro de Valinhos"
+    },
+    {
+        "codigo": "0651",
+        "nome": "Foro de Valparaíso"
+    },
+    {
+        "codigo": "0653",
+        "nome": "Foro de Vargem Grande do Sul"
+    },
+    {
+        "codigo": "0654",
+        "nome": "Foro de Vargem Grande Paulista"
+    },
+    {
+        "codigo": "0655",
+        "nome": "Foro de Várzea Paulista"
+    },
+    {
+        "codigo": "0659",
+        "nome": "Foro de Vinhedo"
+    },
+    {
+        "codigo": "0660",
+        "nome": "Foro de Viradouro"
+    },
+    {
+        "codigo": "0663",
+        "nome": "Foro de Votorantim"
+    },
+    {
+        "codigo": "0664",
+        "nome": "Foro de Votuporanga"
+    },
+    {
+        "codigo": "0666",
+        "nome": "Foro de Artur Nogueira"
+    },
+    {
+        "codigo": "0673",
+        "nome": "Foro de Flórida Paulista"
+    },
+    {
+        "codigo": "0681",
+        "nome": "Foro de Louveira"
+    },
+    {
+        "codigo": "0691",
+        "nome": "Foro de Buri"
+    },
+    {
+        "codigo": "0695",
+        "nome": "Foro de Nazaré Paulista"
+    },
+    {
+        "codigo": "0696",
+        "nome": "Foro de Ouroeste"
+    },
+    {
+        "codigo": "0698",
+        "nome": "Foro de Pirangi"
+    },
+    {
+        "codigo": "0699",
+        "nome": "Foro de Salto de Pirapora"
+    },
+    {
+        "codigo": "0704",
+        "nome": "Foro Regional XV - Butantú"
+    },
+    {
+        "codigo": "0800",
+        "nome": "Foro da Comissão Processante Permanente"
+    },
+    {
+        "codigo": "0981",
+        "nome": "Corregedoria Geral da Justiça"
+    },
+    {
+        "codigo": "0996",
+        "nome": "Presidente Prudente/DEECRIM"
+    },
+    {
+        "codigo": "9000",
+        "nome": "Colégio Recursal Central da Capital"
+    },
+    {
+        "codigo": "9001",
+        "nome": "Colégio Recursal - Santos"
+    },
+    {
+        "codigo": "9002",
+        "nome": "Colégio Recursal - Penha de França"
+    },
+    {
+        "codigo": "9003",
+        "nome": "Colégio Recursal - Lapa"
+    },
+    {
+        "codigo": "9004",
+        "nome": "Colégio Recursal - Santo Amaro"
+    },
+    {
+        "codigo": "9005",
+        "nome": "Colégio Recursal - Santana"
+    },
+    {
+        "codigo": "9006",
+        "nome": "Colégio Recursal - Mogi das Cruzes"
+    },
+    {
+        "codigo": "9007",
+        "nome": "Colégio Recursal - Campinas"
+    },
+    {
+        "codigo": "9008",
+        "nome": "Colégio Recursal - Jundiaí"
+    },
+    {
+        "codigo": "9009",
+        "nome": "Colégio Recursal - Sorocaba"
+    },
+    {
+        "codigo": "9010",
+        "nome": "Colégio Recursal - Piracicaba"
+    },
+    {
+        "codigo": "9011",
+        "nome": "Colégio Recursal - Santo André"
+    },
+    {
+        "codigo": "9012",
+        "nome": "Colégio Recursal - São José dos Campos"
+    },
+    {
+        "codigo": "9013",
+        "nome": "Colégio Recursal - Taubaté"
+    },
+    {
+        "codigo": "9014",
+        "nome": "Colégio Recursal - São Bernardo do Campo"
+    },
+    {
+        "codigo": "9015",
+        "nome": "Colégio Recursal - Osasco"
+    },
+    {
+        "codigo": "9016",
+        "nome": "Colégio Recursal - Bragança Paulista"
+    },
+    {
+        "codigo": "9017",
+        "nome": "Colégio Recursal - Mogi Mirim"
+    },
+    {
+        "codigo": "9018",
+        "nome": "Colégio Recursal - Rio Claro"
+    },
+    {
+        "codigo": "9019",
+        "nome": "Colégio Recursal - Limeira"
+    },
+    {
+        "codigo": "9020",
+        "nome": "Colégio Recursal - Pirassununga"
+    },
+    {
+        "codigo": "9021",
+        "nome": "Colégio Recursal - São Carlos"
+    },
+    {
+        "codigo": "9022",
+        "nome": "Colégio Recursal - Araraquara"
+    },
+    {
+        "codigo": "9023",
+        "nome": "Colégio Recursal - Barretos"
+    },
+    {
+        "codigo": "9024",
+        "nome": "Colégio Recursal - Catanduva"
+    },
+    {
+        "codigo": "9025",
+        "nome": "Colégio Recursal - São José do Rio Preto"
+    },
+    {
+        "codigo": "9026",
+        "nome": "Colégio Recursal - Votuporanga"
+    },
+    {
+        "codigo": "9027",
+        "nome": "Colégio Recursal - Fernandópolis"
+    },
+    {
+        "codigo": "9028",
+        "nome": "Colégio Recursal - Itu"
+    },
+    {
+        "codigo": "9029",
+        "nome": "Colégio Recursal - Registro"
+    },
+    {
+        "codigo": "9030",
+        "nome": "Colégio Recursal - Itapetininga"
+    },
+    {
+        "codigo": "9031",
+        "nome": "Colégio Recursal - Botucatu"
+    },
+    {
+        "codigo": "9032",
+        "nome": "Colégio Recursal - Avaré"
+    },
+    {
+        "codigo": "9033",
+        "nome": "Colégio Recursal - Ourinhos"
+    },
+    {
+        "codigo": "9034",
+        "nome": "Colégio Recursal - Assis"
+    },
+    {
+        "codigo": "9035",
+        "nome": "Colégio Recursal - Presidente Prudente"
+    },
+    {
+        "codigo": "9036",
+        "nome": "Colégio Recursal - Presidente Venceslau"
+    },
+    {
+        "codigo": "9037",
+        "nome": "Colégio Recursal - Dracena"
+    },
+    {
+        "codigo": "9038",
+        "nome": "Colégio Recursal - Tupã"
+    },
+    {
+        "codigo": "9039",
+        "nome": "Colégio Recursal - Marília"
+    },
+    {
+        "codigo": "9040",
+        "nome": "Colégio Recursal - Bauru"
+    },
+    {
+        "codigo": "9041",
+        "nome": "Colégio Recursal - Jaú"
+    },
+    {
+        "codigo": "9042",
+        "nome": "Colégio Recursal - Lins"
+    },
+    {
+        "codigo": "9043",
+        "nome": "Colégio Recursal - Araçatuba"
+    },
+    {
+        "codigo": "9044",
+        "nome": "Colégio Recursal - Andradina"
+    },
+    {
+        "codigo": "9045",
+        "nome": "Colégio Recursal - Franca"
+    },
+    {
+        "codigo": "9046",
+        "nome": "Colégio Recursal - Batatais"
+    },
+    {
+        "codigo": "9047",
+        "nome": "Colégio Recursal - Ituverava"
+    },
+    {
+        "codigo": "9048",
+        "nome": "Colégio Recursal - Ribeirão Preto"
+    },
+    {
+        "codigo": "9049",
+        "nome": "Colégio Recursal - Jaboticabal"
+    },
+    {
+        "codigo": "9050",
+        "nome": "Colégio Recursal - Casa Branca"
+    },
+    {
+        "codigo": "9051",
+        "nome": "Colégio Recursal - Guarulhos"
+    },
+    {
+        "codigo": "9052",
+        "nome": "Colégio Recursal - Itapeva"
+    },
+    {
+        "codigo": "9053",
+        "nome": "Colégio Recursal - São João da Boa Vista"
+    },
+    {
+        "codigo": "9054",
+        "nome": "Colégio Recursal - Caraguatatuba"
+    },
+    {
+        "codigo": "9055",
+        "nome": "Colégio Recursal - Itapecerica da Serra"
+    },
+    {
+        "codigo": "9056",
+        "nome": "Colégio Recursal - Americana"
+    },
+    {
+        "codigo": "9057",
+        "nome": "Colégio Recursal - Amparo"
+    },
+    {
+        "codigo": "9058",
+        "nome": "Colégio Recursal - Jales"
+    },
+    {
+        "codigo": "9059",
+        "nome": "Colégio Recursal - Itanhaém"
+    },
+    {
+        "codigo": "9060",
+        "nome": "Colégio Recursal - Guaratinguetá"
+    }
+]

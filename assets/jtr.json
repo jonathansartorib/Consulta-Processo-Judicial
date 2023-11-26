@@ -1,0 +1,439 @@
+[
+    {
+        "codigo": 100,
+        "nome": "Supremo Tribunal Federal"
+    },
+    {
+        "codigo": 200,
+        "nome": "Conselho Nacional de Justiça"
+    },
+    {
+        "codigo": 300,
+        "nome": "Superior Tribunal de Justiça"
+    },
+    {
+        "codigo": 490,
+        "nome": "Conselho da Justiça Federal"
+    },
+    {
+        "codigo": 401,
+        "nome": "Tribunal Regional Federal da 1ª Região"
+    },
+    {
+        "codigo": 402,
+        "nome": "Tribunal Regional Federal da 2ª Região"
+    },
+    {
+        "codigo": 403,
+        "nome": "Tribunal Regional Federal da 3ª Região"
+    },
+    {
+        "codigo": 404,
+        "nome": "Tribunal Regional Federal da 4ª Região"
+    },
+    {
+        "codigo": 405,
+        "nome": "Tribunal Regional Federal da 5ª Região"
+    },
+    {
+        "codigo": 500,
+        "nome": "Tribunal Superior do Trabalho"
+    },
+    {
+        "codigo": 590,
+        "nome": "Conselho Superior da Justiça do Trabalho"
+    },
+    {
+        "codigo": 501,
+        "nome": "Tribunal Regional do Trabalho da 1ª Região"
+    },
+    {
+        "codigo": 502,
+        "nome": "Tribunal Regional do Trabalho da 2ª Região"
+    },
+    {
+        "codigo": 503,
+        "nome": "Tribunal Regional do Trabalho da 3ª Região"
+    },
+    {
+        "codigo": 504,
+        "nome": "Tribunal Regional do Trabalho da 4ª Região"
+    },
+    {
+        "codigo": 505,
+        "nome": "Tribunal Regional do Trabalho da 5ª Região"
+    },
+    {
+        "codigo": 506,
+        "nome": "Tribunal Regional do Trabalho da 6ª Região"
+    },
+    {
+        "codigo": 507,
+        "nome": "Tribunal Regional do Trabalho da 7ª Região"
+    },
+    {
+        "codigo": 508,
+        "nome": "Tribunal Regional do Trabalho da 8ª Região"
+    },
+    {
+        "codigo": 509,
+        "nome": "Tribunal Regional do Trabalho da 9ª Região"
+    },
+    {
+        "codigo": 510,
+        "nome": "Tribunal Regional do Trabalho da 10ª Região"
+    },
+    {
+        "codigo": 511,
+        "nome": "Tribunal Regional do Trabalho da 11ª Região"
+    },
+    {
+        "codigo": 512,
+        "nome": "Tribunal Regional do Trabalho da 12ª Região"
+    },
+    {
+        "codigo": 513,
+        "nome": "Tribunal Regional do Trabalho da 13ª Região"
+    },
+    {
+        "codigo": 514,
+        "nome": "Tribunal Regional do Trabalho da 14ª Região"
+    },
+    {
+        "codigo": 515,
+        "nome": "Tribunal Regional do Trabalho da 15ª Região"
+    },
+    {
+        "codigo": 516,
+        "nome": "Tribunal Regional do Trabalho da 16ª Região"
+    },
+    {
+        "codigo": 517,
+        "nome": "Tribunal Regional do Trabalho da 17ª Região"
+    },
+    {
+        "codigo": 518,
+        "nome": "Tribunal Regional do Trabalho da 18ª Região"
+    },
+    {
+        "codigo": 519,
+        "nome": "Tribunal Regional do Trabalho da 19ª Região"
+    },
+    {
+        "codigo": 520,
+        "nome": "Tribunal Regional do Trabalho da 20ª Região"
+    },
+    {
+        "codigo": 521,
+        "nome": "Tribunal Regional do Trabalho da 21ª Região"
+    },
+    {
+        "codigo": 522,
+        "nome": "Tribunal Regional do Trabalho da 22ª Região"
+    },
+    {
+        "codigo": 523,
+        "nome": "Tribunal Regional do Trabalho da 23ª Região"
+    },
+    {
+        "codigo": 524,
+        "nome": "Tribunal Regional do Trabalho da 24ª Região"
+    },
+    {
+        "codigo": 600,
+        "nome": "Tribunal Superior Eleitoral"
+    },
+    {
+        "codigo": 601,
+        "nome": "Tribunal Regional Eleitoral do Acre"
+    },
+    {
+        "codigo": 602,
+        "nome": "Tribunal Regional Eleitoral do  Alagoas"
+    },
+    {
+        "codigo": 603,
+        "nome": "Tribunal Regional Eleitoral do Amapá"
+    },
+    {
+        "codigo": 604,
+        "nome": "Tribunal Regional Eleitoral do Amazonas"
+    },
+    {
+        "codigo": 605,
+        "nome": "Tribunal Regional Eleitoral do Bahia"
+    },
+    {
+        "codigo": 606,
+        "nome": "Tribunal Regional Eleitoral do Ceará"
+    },
+    {
+        "codigo": 607,
+        "nome": "Tribunal Regional Eleitoral do  Distrito Federal e Territórios"
+    },
+    {
+        "codigo": 608,
+        "nome": "Tribunal Regional Eleitoral do Espírito Santo"
+    },
+    {
+        "codigo": 609,
+        "nome": "Tribunal Regional Eleitoral do Goiás"
+    },
+    {
+        "codigo": 610,
+        "nome": "Tribunal Regional Eleitoral do Maranhão"
+    },
+    {
+        "codigo": 611,
+        "nome": "Tribunal Regional Eleitoral do Mato Grosso"
+    },
+    {
+        "codigo": 612,
+        "nome": "Tribunal Regional Eleitoral do Mato Grosso do Sul"
+    },
+    {
+        "codigo": 613,
+        "nome": "Tribunal Regional Eleitoral do Minas Gerais"
+    },
+    {
+        "codigo": 614,
+        "nome": "Tribunal Regional Eleitoral do Pará"
+    },
+    {
+        "codigo": 615,
+        "nome": "Tribunal Regional Eleitoral do Paraíba"
+    },
+    {
+        "codigo": 616,
+        "nome": "Tribunal Regional Eleitoral do Paraná"
+    },
+    {
+        "codigo": 617,
+        "nome": "Tribunal Regional Eleitoral do Pernambuco"
+    },
+    {
+        "codigo": 618,
+        "nome": "Tribunal Regional Eleitoral do Piauí"
+    },
+    {
+        "codigo": 619,
+        "nome": "Tribunal Regional Eleitoral do Rio de Janeiro"
+    },
+    {
+        "codigo": 620,
+        "nome": "Tribunal Regional Eleitoral do Rio Grande do Norte"
+    },
+    {
+        "codigo": 621,
+        "nome": "Tribunal Regional Eleitoral do Rio Grande do Sul"
+    },
+    {
+        "codigo": 622,
+        "nome": "Tribunal Regional Eleitoral do Rondônia"
+    },
+    {
+        "codigo": 623,
+        "nome": "Tribunal Regional Eleitoral do Roraima"
+    },
+    {
+        "codigo": 624,
+        "nome": "Tribunal Regional Eleitoral do Santa Catarina"
+    },
+    {
+        "codigo": 625,
+        "nome": "Tribunal Regional Eleitoral do Sergipe"
+    },
+    {
+        "codigo": 626,
+        "nome": "Tribunal Regional Eleitoral do São Paulo"
+    },
+    {
+        "codigo": 627,
+        "nome": "Tribunal Regional Eleitoral do Tocantins"
+    },
+    {
+        "codigo": 700,
+        "nome": "Superior Tribunal Militar"
+    },
+    {
+        "codigo": 701,
+        "nome": "1ª Circunscrição Judiciária Militar"
+    },
+    {
+        "codigo": 702,
+        "nome": "2ª Circunscrição Judiciária Militar"
+    },
+    {
+        "codigo": 703,
+        "nome": "3ª Circunscrição Judiciária Militar"
+    },
+    {
+        "codigo": 704,
+        "nome": "4ª Circunscrição Judiciária Militar"
+    },
+    {
+        "codigo": 705,
+        "nome": "5ª Circunscrição Judiciária Militar"
+    },
+    {
+        "codigo": 706,
+        "nome": "6ª Circunscrição Judiciária Militar"
+    },
+    {
+        "codigo": 707,
+        "nome": "7ª Circunscrição Judiciária Militar"
+    },
+    {
+        "codigo": 708,
+        "nome": "8ª Circunscrição Judiciária Militar"
+    },
+    {
+        "codigo": 709,
+        "nome": "9ª Circunscrição Judiciária Militar"
+    },
+    {
+        "codigo": 710,
+        "nome": "10ª Circunscrição Judiciária Militar"
+    },
+    {
+        "codigo": 711,
+        "nome": "11ª Circunscrição Judiciária Militar"
+    },
+    {
+        "codigo": 712,
+        "nome": "12ª Circunscrição Judiciária Militar"
+    },
+    {
+        "codigo": 801,
+        "nome": "Tribunal de Justiça do Acre"
+    },
+    {
+        "codigo": 802,
+        "nome": "Tribunal de Justiça de Alagoas"
+    },
+    {
+        "codigo": 803,
+        "nome": "Tribunal de Justiça do Amapá"
+    },
+    {
+        "codigo": 804,
+        "nome": "Tribunal de Justiça do Amazonas"
+    },
+    {
+        "codigo": 805,
+        "nome": "Tribunal de Justiça da Bahia"
+    },
+    {
+        "codigo": 806,
+        "nome": "Tribunal de Justiça do Ceará"
+    },
+    {
+        "codigo": 807,
+        "nome": "Tribunal de Justiça do Distrito Federal e Territórios"
+    },
+    {
+        "codigo": 808,
+        "nome": "Tribunal de Justiça do Espírito Santo"
+    },
+    {
+        "codigo": 809,
+        "nome": "Tribunal de Justiça de Goiás"
+    },
+    {
+        "codigo": 810,
+        "nome": "Tribunal de Justiça do Maranhão"
+    },
+    {
+        "codigo": 811,
+        "nome": "Tribunal de Justiça do Mato Grosso"
+    },
+    {
+        "codigo": 812,
+        "nome": "Tribunal de Justiça do Mato Grosso do Sul"
+    },
+    {
+        "codigo": 813,
+        "nome": "Tribunal de Justiça de Minas Gerais"
+    },
+    {
+        "codigo": 814,
+        "nome": "Tribunal de Justiça do Pará"
+    },
+    {
+        "codigo": 815,
+        "nome": "Tribunal de Justiça da Paraíba"
+    },
+    {
+        "codigo": 816,
+        "nome": "Tribunal de Justiça do Paraná"
+    },
+    {
+        "codigo": 817,
+        "nome": "Tribunal de Justiça do Pernambuco"
+    },
+    {
+        "codigo": 818,
+        "nome": "Tribunal de Justiça do Piauí"
+    },
+    {
+        "codigo": 819,
+        "nome": "Tribunal de Justiça do Rio de Janeiro"
+    },
+    {
+        "codigo": 820,
+        "nome": "Tribunal de Justiça do Rio Grande do Norte"
+    },
+    {
+        "codigo": 821,
+        "nome": "Tribunal de Justiça do Rio Grande do Sul"
+    },
+    {
+        "codigo": 822,
+        "nome": "Tribunal de Justiça de Rondônia"
+    },
+    {
+        "codigo": 823,
+        "nome": "Tribunal de Justiça de Roraima"
+    },
+    {
+        "codigo": 824,
+        "nome": "Tribunal de Justiça de Santa Catarina"
+    },
+    {
+        "codigo": 825,
+        "nome": "Tribunal de Justiça de Sergipe"
+    },
+    {
+        "codigo": 826,
+        "nome": "Tribunal de Justiça de São Paulo",
+        "site": "https://www.tjsp.jus.br/"
+    },
+    {
+        "codigo": 827,
+        "nome": "Tribunal de Justiça do Tocantins"
+    },
+    {
+        "codigo": 913,
+        "nome": "Tribunal de Justiça Militar do Estado de Minas Gerais"
+    },
+    {
+        "codigo": 713,
+        "nome": "Auditoria de Justiça Militar do Estado de Minas Gerais"
+    },
+    {
+        "codigo": 921,
+        "nome": "Tribunal de Justiça Militar do Estado do Rio Grande do Sul"
+    },
+    {
+        "codigo": 721,
+        "nome": "Auditoria de Justiça Militar do Estado do Rio Grande do Sul"
+    },
+    {
+        "codigo": 926,
+        "nome": "Tribunal de Justiça Militar do Estado de São Paulo"
+    },
+    {
+        "codigo": 726,
+        "nome": "Auditoria de Justiça Militar do Estado de São Paulo"
+    }
+]

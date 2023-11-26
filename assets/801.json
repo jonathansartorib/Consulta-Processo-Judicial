@@ -1,0 +1,111 @@
+[
+    {
+        "codigo": "0001",
+        "nome": "Rio Branco"
+    },
+    {
+        "codigo": "0002",
+        "nome": "Cruzeiro do Sul"
+    },
+    {
+        "codigo": "0003",
+        "nome": "Brasiléia"
+    },
+    {
+        "codigo": "0004",
+        "nome": "Epitaciolândia"
+    },
+    {
+        "codigo": "0005",
+        "nome": "Capixaba"
+    },
+    {
+        "codigo": "0006",
+        "nome": "Acrelândia"
+    },
+    {
+        "codigo": "0007",
+        "nome": "Xapurio"
+    },
+    {
+        "codigo": "0008",
+        "nome": "Plácido de Castro"
+    },
+    {
+        "codigo": "0009",
+        "nome": "Senador Guiomard"
+    },
+    {
+        "codigo": "0010",
+        "nome": "Bujari"
+    },
+    {
+        "codigo": "0011",
+        "nome": "Sena Madureira"
+    },
+    {
+        "codigo": "0012",
+        "nome": "Manuel Urbano"
+    },
+    {
+        "codigo": "0013",
+        "nome": "Feijó"
+    },
+    {
+        "codigo": "0014",
+        "nome": "Tarauacá"
+    },
+    {
+        "codigo": "0015",
+        "nome": "Mâncio Lima"
+    },
+    {
+        "codigo": "0016",
+        "nome": "Assis Brasil"
+    },
+    {
+        "codigo": "0017",
+        "nome": "Rodrigues Alves"
+    },
+    {
+        "codigo": "0018",
+        "nome": "Santa Rosa"
+    },
+    {
+        "codigo": "0019",
+        "nome": "Jordão"
+    },
+    {
+        "codigo": "0020",
+        "nome": "Porto Walter"
+    },
+    {
+        "codigo": "0021",
+        "nome": "Marechal Thaumaturgo"
+    },
+    {
+        "codigo": "0022",
+        "nome": "Porto Acre"
+    },
+    {
+        "codigo": "0070",
+        "nome": "Juizados Especiais de Rio Branco"
+    },
+    {
+        "codigo": "0081",
+        "nome": "Infância e Juventude de Rio Branco"
+    },
+    {
+        "codigo": "9000",
+        "nome": "Turmas Recursais"
+    },
+    {
+        "codigo": "0000",
+        "nome": "Tribunal de Justiça - Estado do Acre"
+    },
+    {
+        "codigo": "0801",
+        "nome": "Corregedoria"
+    }
+    
+]
