@@ -3,7 +3,7 @@
 Este é um projeto para consulta de origem de processos judiciais de todo o Brasil.
 
 <p align="center">
-  <img src="" width="500px" alt="tela consulta">
+  <img src="https://github.com/jonathansartorib/Consulta-Processo-Judicial/blob/main/screenshot.png" width="500px" alt="tela consulta">
 </p>
 
 ## Tecnologias utilizadas
@@ -27,13 +27,13 @@ TODO - Adicionar arquivos com unidades de origem de processo em arquivos json co
     ]
 
 ## Ferramentas
-Foi disponibilizado na pasta [tools]() dois arquivos python, aonde se pode pegar arquivos em pdf com unidades de origem e transforma-los em arquivos json como acima para facilitar a criação dos arquivos já que são muitos dados a serem capturados.
+Foi disponibilizado na pasta [tools](https://github.com/jonathansartorib/Consulta-Processo-Judicial/tree/main/tools) dois arquivos python, aonde se pode pegar arquivos em pdf com unidades de origem e transforma-los em arquivos json como acima para facilitar a criação dos arquivos já que são muitos dados a serem capturados.
 
-No arquivo [main.py]() deve ser indicado o arquivo em pdf contendo as unidades de origem as paginas que devem ser convertidas e executar o seguinte comando para que os dados sejam gerados no arquivo saida_terminal.txt:
+No arquivo [main.py](https://github.com/jonathansartorib/Consulta-Processo-Judicial/blob/main/tools/main.py) deve ser indicado o arquivo em pdf contendo as unidades de origem as paginas que devem ser convertidas e executar o seguinte comando para que os dados sejam gerados no arquivo saida_terminal.txt:
 
     python main.py > saida_terminal.txt
 
-Em seguida execute o arquivo [criarJson.py]() para que os dados sejam inclusos no arquivo unidades.json e assim trabalhados.
+Em seguida execute o arquivo [criarJson.py](https://github.com/jonathansartorib/Consulta-Processo-Judicial/blob/main/tools/criarJson.py) para que os dados sejam inclusos no arquivo unidades.json e assim trabalhados.
 
 
 ## Licença
