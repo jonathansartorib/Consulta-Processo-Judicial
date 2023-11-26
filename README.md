@@ -16,6 +16,15 @@ Este é um projeto para consulta de origem de processos judiciais de todo o Bras
 ## Contribuindo
 Contribuições são bem-vindas!
 
+Já foram adicionados os Seguintes Orgãos do Poder Judiciário:
+- 8.01 - Tribunal de Justiça do Estado do Acre
+- 8.02 - Tribunal de Justiça do Estado de Alagoas
+- 8.03 - Tribunal de Justiça do Estado de Amapá
+- 8.05 - Tribunal de Justiça do Estado da Bahia
+- 8.26 - Tribunal de Justiça do Estado de São Paulo
+
+Pode ser consultado os faltantes na [Resolução Nº 65 de 16/12/2008 do CNJ](https://atos.cnj.jus.br/files/compilado23285720221017634de539229ab.pdf)
+
 TODO - Responsividade.
 
 TODO - Adicionar arquivos com unidades de origem de processo em arquivos json com o formato abaixo. O nome dos arquivos json devem ter o numero JTR correspondente ao das unidades inclusas como por exemplo 826.json para Estado de São Paulo. Esses arquivos devem ser incluídos na pasta assets.
