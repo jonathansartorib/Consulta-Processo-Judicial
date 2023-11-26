@@ -16,6 +16,8 @@ Este é um projeto para consulta de origem de processos judiciais de todo o Bras
 ## Contribuindo
 Contribuições são bem-vindas!
 
+TODO - Responsividade.
+
 TODO - Adicionar arquivos com unidades de origem de processo em arquivos json com o formato abaixo. O nome dos arquivos json devem ter o numero JTR correspondente ao das unidades inclusas como por exemplo 826.json para Estado de São Paulo. Esses arquivos devem ser incluídos na pasta assets.
 
     [
