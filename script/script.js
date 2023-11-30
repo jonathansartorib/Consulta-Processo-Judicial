@@ -50,7 +50,7 @@ function separarValores(numeroValidado) {
 
 async function buscarJtr(orgaoSegmentoNumero) {
     try {
-        const response = await fetch('./assets/jtr.json');
+        const response = await fetch('./data/jtr.json');
         const data = await response.json();
 
         const codigoEncontrado = data.find(orgao => String(orgao.codigo) === String(orgaoSegmentoNumero));
@@ -73,7 +73,7 @@ async function buscarJtr(orgaoSegmentoNumero) {
 
 async function buscarUnidadeOrigem(unidadeOrigemNumero, orgaoSegmentoNumero) {
     try {
-        const response = await fetch(`./assets/${orgaoSegmentoNumero}.json`);
+        const response = await fetch(`./data/${orgaoSegmentoNumero}.json`);
         const data = await response.json();
 
         const unidadeOrigemEncontrada = data.find(unidade => String(unidade.codigo) === String(unidadeOrigemNumero));
